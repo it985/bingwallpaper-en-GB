@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-06 | [Bonfire Night at the Old Royal Naval College, London (© marcin_libera/Getty Images Plus)](https://global.bing.com/th?id=OHR.GreenwichFireworks_EN-GB8929464056_UHD.jpg) 
+
 2022-11-05 | [Depiction of deities from the Tomb of Tutankhamun at the Egyptian Museum, Cairo, Egypt (© Stefan Lippmann/Universal Images Group via Getty Images)](https://global.bing.com/th?id=OHR.Deities_EN-GB7643429251_UHD.jpg) 
 
 2022-11-02 | [Polar bear at the edge of Hudson Bay, Manitoba, Canada (© Sean Crane/Minden Pictures)](https://global.bing.com/th?id=OHR.SealRiver_EN-GB9654795287_UHD.jpg) 
