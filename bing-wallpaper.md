@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-08 | [Lunar eclipse above Mount Crested Butte, Colorado, USA (© Mengzhonghua Photography/Getty Images)](https://global.bing.com/th?id=OHR.CrestedButteEclispe_EN-GB1381305687_UHD.jpg) 
+
 2022-11-07 | [Valvestino dam in the province of Brescia, Lombardy, Italy (© wmaster890/Getty Images)](https://global.bing.com/th?id=OHR.ValvestinoDam_EN-GB9564618627_UHD.jpg) 
 
 2022-11-06 | [Bonfire Night at the Old Royal Naval College, London (© marcin_libera/Getty Images Plus)](https://global.bing.com/th?id=OHR.GreenwichFireworks_EN-GB8929464056_UHD.jpg) 
