@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-09 | [Sky lanterns take flight during the Yi Peng Festival in Chiang Mai, Thailand (© Suttipong Sutiratanachai/Getty Images)](https://global.bing.com/th?id=OHR.YiPeng_EN-GB1679352084_UHD.jpg) 
+
 2022-11-08 | [Lunar eclipse above Mount Crested Butte, Colorado, USA (© Mengzhonghua Photography/Getty Images)](https://global.bing.com/th?id=OHR.CrestedButteEclispe_EN-GB1381305687_UHD.jpg) 
 
 2022-11-07 | [Valvestino dam in the province of Brescia, Lombardy, Italy (© wmaster890/Getty Images)](https://global.bing.com/th?id=OHR.ValvestinoDam_EN-GB9564618627_UHD.jpg) 
