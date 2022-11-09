@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-10 | [Hedgehog (Erinaceus europaeus) sheltering in a pile of fallen leaves, Sussex (© Jules Cox/Minden Pictures)](https://global.bing.com/th?id=OHR.HedgehogNest_EN-GB2384367951_UHD.jpg) 
+
 2022-11-09 | [Sky lanterns take flight during the Yi Peng Festival in Chiang Mai, Thailand (© Suttipong Sutiratanachai/Getty Images)](https://global.bing.com/th?id=OHR.YiPeng_EN-GB1679352084_UHD.jpg) 
 
 2022-11-08 | [Lunar eclipse above Mount Crested Butte, Colorado, USA (© Mengzhonghua Photography/Getty Images)](https://global.bing.com/th?id=OHR.CrestedButteEclispe_EN-GB1381305687_UHD.jpg) 
