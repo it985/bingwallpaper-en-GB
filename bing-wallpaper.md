@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-11 | [Rock formations in Badlands National Park during a lightning storm, South Dakota, USA (© DEEPOL by plainpicture)](https://global.bing.com/th?id=OHR.BadLightning_EN-GB7102993068_UHD.jpg) 
+
 2022-11-10 | [Hedgehog (Erinaceus europaeus) sheltering in a pile of fallen leaves, Sussex (© Jules Cox/Minden Pictures)](https://global.bing.com/th?id=OHR.HedgehogNest_EN-GB2384367951_UHD.jpg) 
 
 2022-11-09 | [Sky lanterns take flight during the Yi Peng Festival in Chiang Mai, Thailand (© Suttipong Sutiratanachai/Getty Images)](https://global.bing.com/th?id=OHR.YiPeng_EN-GB1679352084_UHD.jpg) 
