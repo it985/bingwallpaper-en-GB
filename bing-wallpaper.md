@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-14 | [Puma in Torres del Paine National Park, Patagonia, Chile (© Ingo Arndt/Minden Pictures)](https://global.bing.com/th?id=OHR.PianePuma_EN-GB7623745785_UHD.jpg) 
+
 2022-11-13 | [Group of bald eagles in Alaska, USA (© Marion Vollborn/Minden Pictures)](https://global.bing.com/th?id=OHR.HainesEagle_EN-GB7518944107_UHD.jpg) 
 
 2022-11-12 | [Poppies:Wave on Barge Pier, Shoeburyness, Southend-on-Sea, Essex (© Ben Rector/Alamy)](https://global.bing.com/th?id=OHR.PoppyWave_EN-GB7223893351_UHD.jpg) 
