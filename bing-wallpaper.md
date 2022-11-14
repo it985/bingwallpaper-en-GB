@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-15 | [Ruins of the medieval castle of the Knights of St John above the village of Chorio, Halki Island, Greece (© Massimo Ripani/eStock Photo)](https://global.bing.com/th?id=OHR.SanGiovanni_EN-GB8036434598_UHD.jpg) 
+
 2022-11-14 | [Puma in Torres del Paine National Park, Patagonia, Chile (© Ingo Arndt/Minden Pictures)](https://global.bing.com/th?id=OHR.PianePuma_EN-GB7623745785_UHD.jpg) 
 
 2022-11-13 | [Group of bald eagles in Alaska, USA (© Marion Vollborn/Minden Pictures)](https://global.bing.com/th?id=OHR.HainesEagle_EN-GB7518944107_UHD.jpg) 
