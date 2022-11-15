@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-16 | [North American river otters in Acadia National Park, Maine, USA (© George Sanker/Minden Pictures)](https://global.bing.com/th?id=OHR.LontraCanadensis_EN-GB8673483718_UHD.jpg) 
+
 2022-11-15 | [Ruins of the medieval castle of the Knights of St John above the village of Chorio, Halki Island, Greece (© Massimo Ripani/eStock Photo)](https://global.bing.com/th?id=OHR.SanGiovanni_EN-GB8036434598_UHD.jpg) 
 
 2022-11-14 | [Puma in Torres del Paine National Park, Patagonia, Chile (© Ingo Arndt/Minden Pictures)](https://global.bing.com/th?id=OHR.PianePuma_EN-GB7623745785_UHD.jpg) 
