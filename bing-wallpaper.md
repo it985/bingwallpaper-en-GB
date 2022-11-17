@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-18 | [Guggenheim Museum Bilbao, Spain (© Jeremy Horner/Getty Images)](https://global.bing.com/th?id=OHR.GB25Anni_EN-GB0345961428_UHD.jpg) 
+
 2022-11-17 | [Cliff dwellings in Mesa Verde National Park in Colorado, USA (© Brad McGinley Photography/Getty Images)](https://global.bing.com/th?id=OHR.Unesco50_EN-GB0097708496_UHD.jpg) 
 
 2022-11-16 | [North American river otters in Acadia National Park, Maine, USA (© George Sanker/Minden Pictures)](https://global.bing.com/th?id=OHR.LontraCanadensis_EN-GB8673483718_UHD.jpg) 
