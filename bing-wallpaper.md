@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-19 | [The gates of the Royal Palace (Dar El Makhzen) in Fez, Morocco (© Adam Smigielski/Getty Images)](https://global.bing.com/th?id=OHR.IslamicArt_EN-GB9965022217_UHD.jpg) 
+
 2022-11-18 | [Guggenheim Museum Bilbao, Spain (© Jeremy Horner/Getty Images)](https://global.bing.com/th?id=OHR.GB25Anni_EN-GB0345961428_UHD.jpg) 
 
 2022-11-17 | [Cliff dwellings in Mesa Verde National Park in Colorado, USA (© Brad McGinley Photography/Getty Images)](https://global.bing.com/th?id=OHR.Unesco50_EN-GB0097708496_UHD.jpg) 
