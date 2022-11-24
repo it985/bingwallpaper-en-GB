@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-25 | [View from Kampenwand mountain, Aschau im Chiemgau, Bavaria, Germany (© Toni Anzenberger/plainpicture)](https://global.bing.com/th?id=OHR.AschauChiemgau_EN-GB2159713937_UHD.jpg) 
+
 2022-11-24 | [Sunflower (© Dileep Chandran/Alamy)](https://global.bing.com/th?id=OHR.HelianthusAnnuus_EN-GB1803101223_UHD.jpg) 
 
 2022-11-23 | [Red fox in Amsterdamse Waterleidingduinen Nature Reserve in the Netherlands (© Edwin Giesbers/Minden Pictures)](https://global.bing.com/th?id=OHR.Waterleidingduinen_EN-GB1521299748_UHD.jpg) 
