@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-27 | [An olive tree in front of the Temple of Concordia on the island of Sicily, Italy (© Alfio Finocchiaro/Shutterstock)](https://global.bing.com/th?id=OHR.OliveTreeDay_EN-GB2958109207_UHD.jpg) 
+
 2022-11-26 | [The Old Town of Rovinj, Croatia (© trabantos/Shutterstock)](https://global.bing.com/th?id=OHR.RovinjCroatia_EN-GB2728275584_UHD.jpg) 
 
 2022-11-25 | [View from Kampenwand mountain, Aschau im Chiemgau, Bavaria, Germany (© Toni Anzenberger/plainpicture)](https://global.bing.com/th?id=OHR.AschauChiemgau_EN-GB2159713937_UHD.jpg) 
