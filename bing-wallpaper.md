@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-28 | [Cecropia leaf on top of lobster claw petals, Mexico (© Gerry Ellis/Minden Pictures)](https://global.bing.com/th?id=OHR.Cecropia_EN-GB3173718210_UHD.jpg) 
+
 2022-11-27 | [An olive tree in front of the Temple of Concordia on the island of Sicily, Italy (© Alfio Finocchiaro/Shutterstock)](https://global.bing.com/th?id=OHR.OliveTreeDay_EN-GB2958109207_UHD.jpg) 
 
 2022-11-26 | [The Old Town of Rovinj, Croatia (© trabantos/Shutterstock)](https://global.bing.com/th?id=OHR.RovinjCroatia_EN-GB2728275584_UHD.jpg) 
