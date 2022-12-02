@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-03 | [Gnarled ancient oak trees in Wistman's Wood, Dartmoor National Park, Devon (© Richard Garvey-Williams/Alamy)](https://global.bing.com/th?id=OHR.WistmansWood_EN-GB8731149611_UHD.jpg) 
+
 2022-11-28 | [Cecropia leaf on top of lobster claw petals, Mexico (© Gerry Ellis/Minden Pictures)](https://global.bing.com/th?id=OHR.Cecropia_EN-GB3173718210_UHD.jpg) 
 
 2022-11-27 | [An olive tree in front of the Temple of Concordia on the island of Sicily, Italy (© Alfio Finocchiaro/Shutterstock)](https://global.bing.com/th?id=OHR.OliveTreeDay_EN-GB2958109207_UHD.jpg) 
