@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-04 | [The hilltop village of Turenne at sunrise in the Corrèze department, Nouvelle-Aquitaine, France (© Tim Mannakee/plainpicture)](https://global.bing.com/th?id=OHR.TurenneSunrise_EN-GB9248395260_UHD.jpg) 
+
 2022-12-03 | [Gnarled ancient oak trees in Wistman's Wood, Dartmoor National Park, Devon (© Richard Garvey-Williams/Alamy)](https://global.bing.com/th?id=OHR.WistmansWood_EN-GB8731149611_UHD.jpg) 
 
 2022-11-28 | [Cecropia leaf on top of lobster claw petals, Mexico (© Gerry Ellis/Minden Pictures)](https://global.bing.com/th?id=OHR.Cecropia_EN-GB3173718210_UHD.jpg) 
