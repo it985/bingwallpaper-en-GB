@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-05 | [Elephants near Mount Kilimanjaro, Amboseli National Park, Kenya (© Diana Robinson Photography/Getty Images)](https://global.bing.com/th?id=OHR.KilimanjaroElephants_EN-GB9864258705_UHD.jpg) 
+
 2022-12-04 | [The hilltop village of Turenne at sunrise in the Corrèze department, Nouvelle-Aquitaine, France (© Tim Mannakee/plainpicture)](https://global.bing.com/th?id=OHR.TurenneSunrise_EN-GB9248395260_UHD.jpg) 
 
 2022-12-03 | [Gnarled ancient oak trees in Wistman's Wood, Dartmoor National Park, Devon (© Richard Garvey-Williams/Alamy)](https://global.bing.com/th?id=OHR.WistmansWood_EN-GB8731149611_UHD.jpg) 
