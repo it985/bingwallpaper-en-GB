@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-09 | [Cathedral of Florence, Italy (© Alexander Baert/Amazing Aerial Agency)](https://global.bing.com/th?id=OHR.FlorenceAerial_EN-GB5616651658_UHD.jpg) 
+
 2022-12-05 | [Elephants near Mount Kilimanjaro, Amboseli National Park, Kenya (© Diana Robinson Photography/Getty Images)](https://global.bing.com/th?id=OHR.KilimanjaroElephants_EN-GB9864258705_UHD.jpg) 
 
 2022-12-04 | [The hilltop village of Turenne at sunrise in the Corrèze department, Nouvelle-Aquitaine, France (© Tim Mannakee/plainpicture)](https://global.bing.com/th?id=OHR.TurenneSunrise_EN-GB9248395260_UHD.jpg) 
