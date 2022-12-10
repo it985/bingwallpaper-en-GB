@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-11 | [Salar de Uyuni in Bolivia (© Theo Allofs/Minden Pictures)](https://global.bing.com/th?id=OHR.SaltDesert_EN-GB6912515718_UHD.jpg) 
+
 2022-12-10 | [Muskox mother and calf in Dovre-Sunndalsfjella National Park, Norway (© Robert Haasmann/Minden Pictures)](https://global.bing.com/th?id=OHR.NorwayMuskox_EN-GB6474528778_UHD.jpg) 
 
 2022-12-09 | [Cathedral of Florence, Italy (© Alexander Baert/Amazing Aerial Agency)](https://global.bing.com/th?id=OHR.FlorenceAerial_EN-GB5616651658_UHD.jpg) 
