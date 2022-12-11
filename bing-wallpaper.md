@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-12 | [View from the summit of Roßstein mountain, Bavaria, Germany (© Christian Bäck/eStock Photo)](https://global.bing.com/th?id=OHR.BuchsteinRossstein_EN-GB7410420245_UHD.jpg) 
+
 2022-12-11 | [Salar de Uyuni in Bolivia (© Theo Allofs/Minden Pictures)](https://global.bing.com/th?id=OHR.SaltDesert_EN-GB6912515718_UHD.jpg) 
 
 2022-12-10 | [Muskox mother and calf in Dovre-Sunndalsfjella National Park, Norway (© Robert Haasmann/Minden Pictures)](https://global.bing.com/th?id=OHR.NorwayMuskox_EN-GB6474528778_UHD.jpg) 
