@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-14 | [Hallstatt, Austria (© Jon Arnold Images Ltd/Alamy)](https://global.bing.com/th?id=OHR.InstagramHallstatt_EN-GB9978566680_UHD.jpg) 
+
 2022-12-13 | [Poinsettia plants (© Elizabeth Fernandez/Getty Images)](https://global.bing.com/th?id=OHR.PoinsettiaDay_EN-GB8181050190_UHD.jpg) 
 
 2022-12-12 | [View from the summit of Roßstein mountain, Bavaria, Germany (© Christian Bäck/eStock Photo)](https://global.bing.com/th?id=OHR.BuchsteinRossstein_EN-GB7410420245_UHD.jpg) 
