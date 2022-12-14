@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-15 | [Back Tor on a foggy morning, Great Ridge, Derbyshire. (© John Finney Photography/Getty Images)](https://global.bing.com/th?id=OHR.BackTor_EN-GB0185383475_UHD.jpg) 
+
 2022-12-14 | [Hallstatt, Austria (© Jon Arnold Images Ltd/Alamy)](https://global.bing.com/th?id=OHR.InstagramHallstatt_EN-GB9978566680_UHD.jpg) 
 
 2022-12-13 | [Poinsettia plants (© Elizabeth Fernandez/Getty Images)](https://global.bing.com/th?id=OHR.PoinsettiaDay_EN-GB8181050190_UHD.jpg) 
