@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-17 | [Christmas Lights, Ludlow, Shropshire (© Joe Daniel Price/Getty Images)](https://global.bing.com/th?id=OHR.LudlowLights_EN-GB4493176055_UHD.jpg) 
+
 2022-12-16 | [Borovets mountain resort, Bulgaria (© Grigor Ivanov/Cavan Images)](https://global.bing.com/th?id=OHR.Borovets_EN-GB0569588044_UHD.jpg) 
 
 2022-12-15 | [Back Tor on a foggy morning, Great Ridge, Derbyshire. (© John Finney Photography/Getty Images)](https://global.bing.com/th?id=OHR.BackTor_EN-GB0185383475_UHD.jpg) 
