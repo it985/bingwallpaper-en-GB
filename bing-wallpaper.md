@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-18 | [Mountain goats at Glacier National Park in Montana, USA (© Sumio Harada/Minden Pictures)](https://global.bing.com/th?id=OHR.GlacierGoats_EN-GB4902288546_UHD.jpg) 
+
 2022-12-17 | [Christmas Lights, Ludlow, Shropshire (© Joe Daniel Price/Getty Images)](https://global.bing.com/th?id=OHR.LudlowLights_EN-GB4493176055_UHD.jpg) 
 
 2022-12-16 | [Borovets mountain resort, Bulgaria (© Grigor Ivanov/Cavan Images)](https://global.bing.com/th?id=OHR.Borovets_EN-GB0569588044_UHD.jpg) 
