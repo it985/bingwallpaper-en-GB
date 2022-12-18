@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-19 | [Village of Castelmezzano, Potenza, Basilicata, Italy (© Roberto Moiola/Getty Images)](https://global.bing.com/th?id=OHR.SanMartinoVillage_EN-GB5026758515_UHD.jpg) 
+
 2022-12-18 | [Mountain goats at Glacier National Park in Montana, USA (© Sumio Harada/Minden Pictures)](https://global.bing.com/th?id=OHR.GlacierGoats_EN-GB4902288546_UHD.jpg) 
 
 2022-12-17 | [Christmas Lights, Ludlow, Shropshire (© Joe Daniel Price/Getty Images)](https://global.bing.com/th?id=OHR.LudlowLights_EN-GB4493176055_UHD.jpg) 
