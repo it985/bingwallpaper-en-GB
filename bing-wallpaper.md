@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-25 | [Amalga Harbour, Alaska, USA (© Mark Kelley/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.AmalgaTree_EN-GB1599916191_UHD.jpg) 
+
 2022-12-24 | [Christmas decorations in the medieval cloister at Gloucester Cathedral (© PJ Photography/Shutterstock)](https://global.bing.com/th?id=OHR.GlosCathedral_EN-GB0509277157_UHD.jpg) 
 
 2022-12-23 | [Christmas tree at the Galeries Lafayette in Paris, France (© Geoffroy Van der Hasselt/AFP via Getty Images)](https://global.bing.com/th?id=OHR.TreeGaleriesLafayette_EN-GB0145665850_UHD.jpg) 
