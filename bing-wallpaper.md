@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-26 | [Miniature Christmas village in Strasbourg, France (© Kavalenkava Volha/Alamy)](https://global.bing.com/th?id=OHR.ChristmasSouvenir_EN-GB1989266038_UHD.jpg) 
+
 2022-12-25 | [Amalga Harbour, Alaska, USA (© Mark Kelley/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.AmalgaTree_EN-GB1599916191_UHD.jpg) 
 
 2022-12-24 | [Christmas decorations in the medieval cloister at Gloucester Cathedral (© PJ Photography/Shutterstock)](https://global.bing.com/th?id=OHR.GlosCathedral_EN-GB0509277157_UHD.jpg) 
