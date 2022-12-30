@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-31 | [Rock formations in the White Desert, Egypt (© Anton Petrus/Getty Images)](https://global.bing.com/th?id=OHR.ChalkRock_EN-GB6796672123_UHD.jpg) 
+
 2022-12-30 | [A pair of silver-studded blue butterflies (© Misja Smits/Minden Pictures)](https://global.bing.com/th?id=OHR.ButterflyEffect_EN-GB3741466471_UHD.jpg) 
 
 2022-12-29 | [Maloja, Switzerland (© Roberto Moiola/Getty)](https://global.bing.com/th?id=OHR.ChiesaBianca_EN-GB3341372552_UHD.jpg) 
