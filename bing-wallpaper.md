@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-02 | [Polar bear in Svalbard, Norway (© Dennis Stogsdill/Getty Images)](https://global.bing.com/th?id=OHR.NorwayNYD_EN-GB8782500376_UHD.jpg) 
+
 2023-01-01 | [New Year’s Eve fireworks, Sydney Harbour Bridge in Sydney, Australia (© Wendell Teodoro/Getty Images)](https://global.bing.com/th?id=OHR.SydneyNYE_EN-GB8296265724_UHD.jpg) 
 
 2022-12-31 | [Rock formations in the White Desert, Egypt (© Anton Petrus/Getty Images)](https://global.bing.com/th?id=OHR.ChalkRock_EN-GB6796672123_UHD.jpg) 
