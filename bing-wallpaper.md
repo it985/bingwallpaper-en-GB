@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-03 | [Dawn at Eilean Donan Castle on Loch Duich, Loch Alsh and Loch Long, Highlands (© Joe Daniel Price/Getty Images)](https://global.bing.com/th?id=OHR.EileanDonanDawn_EN-GB9569090895_UHD.jpg) 
+
 2023-01-02 | [Polar bear in Svalbard, Norway (© Dennis Stogsdill/Getty Images)](https://global.bing.com/th?id=OHR.NorwayNYD_EN-GB8782500376_UHD.jpg) 
 
 2023-01-01 | [New Year’s Eve fireworks, Sydney Harbour Bridge in Sydney, Australia (© Wendell Teodoro/Getty Images)](https://global.bing.com/th?id=OHR.SydneyNYE_EN-GB8296265724_UHD.jpg) 
