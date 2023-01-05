@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-06 | [Harbin International Ice and Snow Sculpture Festival, Harbin, China (© STR/AFP via Getty Images)](https://global.bing.com/th?id=OHR.HIISSF_EN-GB1465326330_UHD.jpg) 
+
 2023-01-05 | [The Earth as seen from the International Space Station (© JSC/NASA)](https://global.bing.com/th?id=OHR.Perihelion_EN-GB1127186181_UHD.jpg) 
 
 2023-01-04 | [Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Jay Goodrich/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.SandhillSleeping_EN-GB0400905229_UHD.jpg) 
