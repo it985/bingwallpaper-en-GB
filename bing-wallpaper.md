@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-07 | [Black Fell, Lake District, Cumbria (© Daniel Kay/Shutterstock)](https://global.bing.com/th?id=OHR.BlackFell_EN-GB2718141363_UHD.jpg) 
+
 2023-01-06 | [Harbin International Ice and Snow Sculpture Festival, Harbin, China (© STR/AFP via Getty Images)](https://global.bing.com/th?id=OHR.HIISSF_EN-GB1465326330_UHD.jpg) 
 
 2023-01-05 | [The Earth as seen from the International Space Station (© JSC/NASA)](https://global.bing.com/th?id=OHR.Perihelion_EN-GB1127186181_UHD.jpg) 
