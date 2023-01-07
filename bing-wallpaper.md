@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-08 | [Wool and mohair yarn (© Jurate Buiviene/Alamy)](https://global.bing.com/th?id=OHR.Mohair_EN-GB2989442794_UHD.jpg) 
+
 2023-01-07 | [Black Fell, Lake District, Cumbria (© Daniel Kay/Shutterstock)](https://global.bing.com/th?id=OHR.BlackFell_EN-GB2718141363_UHD.jpg) 
 
 2023-01-06 | [Harbin International Ice and Snow Sculpture Festival, Harbin, China (© STR/AFP via Getty Images)](https://global.bing.com/th?id=OHR.HIISSF_EN-GB1465326330_UHD.jpg) 
