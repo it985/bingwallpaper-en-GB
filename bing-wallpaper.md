@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-11 | [Hummock ice on Lake Peipus in Estonia (© Sven Zacek/Minden Pictures)](https://global.bing.com/th?id=OHR.HummockIce_EN-GB8026049524_UHD.jpg) 
+
 2023-01-10 | [Hohenzollern Castle, Baden-Württemberg, Germany (© Sahara Prince/Shutterstock)](https://global.bing.com/th?id=OHR.HohenzollernBurg_EN-GB7458716248_UHD.jpg) 
 
 2023-01-09 | [Breckenridge, Colorado, USA (© Sean Pavone/Shutterstock)](https://global.bing.com/th?id=OHR.Breckenridge_EN-GB6966307043_UHD.jpg) 
