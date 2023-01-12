@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-13 | [Rumelihisarı on the Bosporus Strait at Istanbul, Türkiye (© Drone in Wonderland/Amazing Aerial Agency)](https://global.bing.com/th?id=OHR.RumeliHisari_EN-GB9295498578_UHD.jpg) 
+
 2023-01-12 | [Godrevy Lighthouse, Cornwall (© Paul Nash/Shutterstock)](https://global.bing.com/th?id=OHR.GodrevyRocks_EN-GB8938156788_UHD.jpg) 
 
 2023-01-11 | [Hummock ice on Lake Peipus in Estonia (© Sven Zacek/Minden Pictures)](https://global.bing.com/th?id=OHR.HummockIce_EN-GB8026049524_UHD.jpg) 
