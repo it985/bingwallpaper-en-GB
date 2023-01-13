@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-14 | [Giant kelp in the Channel Islands National Marine Sanctuary, California (© Brandon Cole Images/Shutterstock)](https://global.bing.com/th?id=OHR.Pneumatocysts_EN-GB9676187936_UHD.jpg) 
+
 2023-01-13 | [Rumelihisarı on the Bosporus Strait at Istanbul, Türkiye (© Drone in Wonderland/Amazing Aerial Agency)](https://global.bing.com/th?id=OHR.RumeliHisari_EN-GB9295498578_UHD.jpg) 
 
 2023-01-12 | [Godrevy Lighthouse, Cornwall (© Paul Nash/Shutterstock)](https://global.bing.com/th?id=OHR.GodrevyRocks_EN-GB8938156788_UHD.jpg) 
