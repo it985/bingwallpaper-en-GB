@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-16 | [Aura River in Turku, Finland (© Jarmo Piironen/Alamy)](https://global.bing.com/th?id=OHR.Turku_EN-GB9433162761_UHD.jpg) 
+
 2023-01-15 | [Domestic donkey feeding on cherry twigs (© Juniors Bildarchiv GmbH/Alamy)](https://global.bing.com/th?id=OHR.DonkeyFeast_EN-GB7125186389_UHD.jpg) 
 
 2023-01-14 | [Giant kelp in the Channel Islands National Marine Sanctuary, California (© Brandon Cole Images/Shutterstock)](https://global.bing.com/th?id=OHR.Pneumatocysts_EN-GB9676187936_UHD.jpg) 
