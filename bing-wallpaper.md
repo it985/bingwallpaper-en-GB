@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-18 | [Muniellos Nature Reserve in Asturias, Spain (© Andres M. Dominguez/Minden Pictures)](https://global.bing.com/th?id=OHR.SessileOaks_EN-GB9173929879_UHD.jpg) 
+
 2023-01-17 | [White Corries in winter, Glen Coe, Highlands, Scotland (© AWL Images/Danita Delimont)](https://global.bing.com/th?id=OHR.BlackrockCottage_EN-GB9287656092_UHD.jpg) 
 
 2023-01-16 | [Aura River in Turku, Finland (© Jarmo Piironen/Alamy)](https://global.bing.com/th?id=OHR.Turku_EN-GB9433162761_UHD.jpg) 
