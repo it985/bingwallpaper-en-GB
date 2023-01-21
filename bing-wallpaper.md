@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-22 | [Kangaroo mother and baby (© Belle Ciezak/Shutterstock)](https://global.bing.com/th?id=OHR.HuggingKanga_EN-GB8617406412_UHD.jpg) 
+
 2023-01-21 | [King penguins in the Falkland Islands (© Elmar Weiss/Getty Images)](https://global.bing.com/th?id=OHR.FalklandKings_EN-GB8693899023_UHD.jpg) 
 
 2023-01-20 | [Park City, Utah (© Kruck20/Getty Images)](https://global.bing.com/th?id=OHR.SFFParkCity_EN-GB8913820125_UHD.jpg) 
