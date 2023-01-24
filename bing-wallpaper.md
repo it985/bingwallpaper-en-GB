@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-25 | [Colle Santa Lucia in the Dolomites, Italy (© mauritius images GmbH/Alamy)](https://global.bing.com/th?id=OHR.ColleSantaLucia_EN-GB8153836108_UHD.jpg) 
+
 2023-01-24 | [Moai statues on Easter Island, Chile (© Karine Aigner/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.SunriseMoai_EN-GB8250494990_UHD.jpg) 
 
 2023-01-23 | [Mountain hare in Derbyshire, England (© Ben Hall/Minden Pictures)](https://global.bing.com/th?id=OHR.YearRabbit_EN-GB8377224624_UHD.jpg) 
