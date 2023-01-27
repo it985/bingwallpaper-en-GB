@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-28 | [Red mangrove tree seedlings in Guanahacabibes National Park, Cuba (© Claudio Contreras/Minden Pictures)](https://global.bing.com/th?id=OHR.RedMangrove_EN-GB9709939121_UHD.jpg) 
+
 2023-01-27 | [Silbury Hill in the winter snow at sunrise, Avebury, Wiltshire (© Tim Gainey/Alamy)](https://global.bing.com/th?id=OHR.SilburySnow_EN-GB7786178498_UHD.jpg) 
 
 2023-01-26 | [Statue of Robert Burns in the Birks of Aberfeldy, Perth and Kinross, Scotland (© Dennis Barnes/Getty Images)](https://global.bing.com/th?id=OHR.BirksofAberfeldy_EN-GB8048956008_UHD.jpg) 
