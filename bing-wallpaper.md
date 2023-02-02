@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-03 | [Alpine marmots in Hohe Tauern National Park, Austria (© Michaela Walch/Alamy)](https://global.bing.com/th?id=OHR.GroundhogThree_EN-GB3830162668_UHD.jpg) 
+
 2023-02-02 | [The Château de Pierrefonds in the Oise department of Picardy, France (© Hemis/Alamy)](https://global.bing.com/th?id=OHR.SunriseCastle_EN-GB5423579932_UHD.jpg) 
 
 2023-02-01 | [Burchell's zebras, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](https://global.bing.com/th?id=OHR.ZebraTrio_EN-GB2876402606_UHD.jpg) 
