@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-06 | [Monarch butterflies at Pismo Beach, California, USA (© Mimi Ditchie/Getty Images)](https://global.bing.com/th?id=OHR.MonarchPismo_EN-GB4817587873_UHD.jpg) 
+
 2023-02-05 | [Feldberg Tower in the Black Forest, Baden-Württemberg, Germany  (© Hemis/Alamy)](https://global.bing.com/th?id=OHR.FeldbergSchnee_EN-GB5169834441_UHD.jpg) 
 
 2023-02-04 | [Chateau Frontenac, Quebec City, Canada (© Romiana Lee/Shutterstock)](https://global.bing.com/th?id=OHR.QuebecFrontenac_EN-GB4176701288_UHD.jpg) 
