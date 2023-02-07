@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-08 | [Village of Labro, Rieti Province, Italy (© Marco Ilari/Shutterstock)](https://global.bing.com/th?id=OHR.MedievalLabro_EN-GB0628402084_UHD.jpg) 
+
 2023-02-07 | [Fiordland National Park in South Island, New Zealand (© WitR/Adobe Stock)](https://global.bing.com/th?id=OHR.WaitangiFjordlandNP_EN-GB5123956704_UHD.jpg) 
 
 2023-02-06 | [Monarch butterflies at Pismo Beach, California, USA (© Mimi Ditchie/Getty Images)](https://global.bing.com/th?id=OHR.MonarchPismo_EN-GB4817587873_UHD.jpg) 
