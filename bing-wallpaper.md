@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-13 | [Blue-footed booby, Galápagos Islands, Ecuador (�� Tui De Roy/Minden Pictures)](https://global.bing.com/th?id=OHR.BoobyDarwinDay_EN-GB3986059501_UHD.jpg) 
+
 2023-02-12 | [The Milky Way over Zabriskie Point, Death Valley, California (© Matt Anderson Photography/Getty Images)](https://global.bing.com/th?id=OHR.DarkSkiesDV_EN-GB6252462547_UHD.jpg) 
 
 2023-02-11 | [Ancient theater of Epidaurus in Argolis province, Greece (© George Pachantouris/Getty Images)](https://global.bing.com/th?id=OHR.EpidaurusGreece_EN-GB6133832851_UHD.jpg) 
