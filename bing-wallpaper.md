@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-15 | [Igloo at Otaru Snow Light Path Festival, Hokkaido, Japan (© T Photography/Shutterstock)](https://global.bing.com/th?id=OHR.OtaruIgloo_EN-GB6651290893_UHD.jpg) 
+
 2023-02-14 | [Achaches lookout, Valley of the Moon, Chile (© Ignacio Palacios/Getty Images)](https://global.bing.com/th?id=OHR.MoonValley_EN-GB6547487227_UHD.jpg) 
 
 2023-02-13 | [Blue-footed booby, Galápagos Islands, Ecuador (�� Tui De Roy/Minden Pictures)](https://global.bing.com/th?id=OHR.BoobyDarwinDay_EN-GB3986059501_UHD.jpg) 
