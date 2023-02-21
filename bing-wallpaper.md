@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-22 | [French Quarter, New Orleans, Louisiana (© f11photo/Getty Images)](https://global.bing.com/th?id=OHR.MardiGrasNOLA_EN-GB7183451719_UHD.jpg) 
+
 2023-02-21 | [Miami, Florida (© Matteo Colombo/Getty Images)](https://global.bing.com/th?id=OHR.MiamiDT_EN-GB6702177426_UHD.jpg) 
 
 2023-02-20 | [Humpback whales, Maui, Hawaii (© Flip Nicklin/Minden Pictures)](https://global.bing.com/th?id=OHR.MauiWhale_EN-GB7078711580_UHD.jpg) 
