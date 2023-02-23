@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-24 | [Paris, France (© somchaij/Shutterstock)](https://global.bing.com/th?id=OHR.ParisWinter_EN-GB7268811736_UHD.jpg) 
+
 2023-02-23 | [Royal Albert Hall at night, South Kensington, London (© Sharrocks/Getty Images)](https://global.bing.com/th?id=OHR.PromsLast_EN-GB1441839458_UHD.jpg) 
 
 2023-02-22 | [French Quarter, New Orleans, Louisiana (© f11photo/Getty Images)](https://global.bing.com/th?id=OHR.MardiGrasNOLA_EN-GB7183451719_UHD.jpg) 
