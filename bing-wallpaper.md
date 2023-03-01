@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-02 | [Women’s suffrage centenary, Manchester, UK (© Christopher Furlong/Getty Images)](https://global.bing.com/th?id=OHR.ManchesterSerenity_EN-GB3487230863_UHD.jpg) 
+
 2023-03-01 | [Atrani, Amalfi Coast, Italy (© Amazing Aerial/Shutterstock)](https://global.bing.com/th?id=OHR.AtraniAmalfi_EN-GB3935417356_UHD.jpg) 
 
 2023-02-28 | [Polar bears asleep in Canada (© David Pike/Minden Pictures)](https://global.bing.com/th?id=OHR.PolarBearFrost_EN-GB3362552109_UHD.jpg) 
