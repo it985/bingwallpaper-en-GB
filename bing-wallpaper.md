@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-03 | [Livraria Lello, Porto, Portugal, (© Plainpicture/AWL/Marco Bottigelli)](https://global.bing.com/th?id=OHR.WorldBookDay_EN-GB4290155371_UHD.jpg) 
+
 2023-03-02 | [Women’s suffrage centenary, Manchester, UK (© Christopher Furlong/Getty Images)](https://global.bing.com/th?id=OHR.ManchesterSerenity_EN-GB3487230863_UHD.jpg) 
 
 2023-03-01 | [Atrani, Amalfi Coast, Italy (© Amazing Aerial/Shutterstock)](https://global.bing.com/th?id=OHR.AtraniAmalfi_EN-GB3935417356_UHD.jpg) 
