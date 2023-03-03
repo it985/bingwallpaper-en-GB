@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-04 | [Killer whales in the waters off Spildra, Norway (© Alex Mustard/Minden Pictures)](https://global.bing.com/th?id=OHR.OrcaNorway_EN-GB4461160201_UHD.jpg) 
+
 2023-03-03 | [Livraria Lello, Porto, Portugal, (© Plainpicture/AWL/Marco Bottigelli)](https://global.bing.com/th?id=OHR.WorldBookDay_EN-GB4290155371_UHD.jpg) 
 
 2023-03-02 | [Women’s suffrage centenary, Manchester, UK (© Christopher Furlong/Getty Images)](https://global.bing.com/th?id=OHR.ManchesterSerenity_EN-GB3487230863_UHD.jpg) 
