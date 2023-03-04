@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-05 | [Road to Mount Pico, Portugal (© Marco Bottigelli/Getty Images)](https://global.bing.com/th?id=OHR.PicoVolcano_EN-GB9536177361_UHD.jpg) 
+
 2023-03-04 | [Killer whales in the waters off Spildra, Norway (© Alex Mustard/Minden Pictures)](https://global.bing.com/th?id=OHR.OrcaNorway_EN-GB4461160201_UHD.jpg) 
 
 2023-03-03 | [Livraria Lello, Porto, Portugal, (© Plainpicture/AWL/Marco Bottigelli)](https://global.bing.com/th?id=OHR.WorldBookDay_EN-GB4290155371_UHD.jpg) 
