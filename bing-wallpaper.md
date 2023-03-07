@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-08 | [Aerial view of terraced rice fields, Yuanyang County, China (© AlexGcs/Getty Images)](https://global.bing.com/th?id=OHR.YuanyangChina_EN-GB0747029532_UHD.jpg) 
+
 2023-03-07 | [Icelandic horses standing in a field, Iceland (© Rodrigo Lourezini/Shutterstock)](https://global.bing.com/th?id=OHR.IcelandHorses_EN-GB0471273367_UHD.jpg) 
 
 2023-03-06 | [Cherry trees in full bloom near the Imperial Palace with Tokyo Tower in the background, Tokyo, Japan (© Jon Arnold/Danita Delimont)](https://global.bing.com/th?id=OHR.TokyoMoat_EN-GB5562733904_UHD.jpg) 
