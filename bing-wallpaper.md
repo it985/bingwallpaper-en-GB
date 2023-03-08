@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-09 | [Cibeles Fountain and Madrid City Hall lit for International Women's Day, Madrid, Spain (© dpa picture alliance/Alamy)](https://global.bing.com/th?id=OHR.IntlWomensDayChange_EN-GB0996253952_UHD.jpg) 
+
 2023-03-08 | [Aerial view of terraced rice fields, Yuanyang County, China (© AlexGcs/Getty Images)](https://global.bing.com/th?id=OHR.YuanyangChina_EN-GB0747029532_UHD.jpg) 
 
 2023-03-07 | [Icelandic horses standing in a field, Iceland (© Rodrigo Lourezini/Shutterstock)](https://global.bing.com/th?id=OHR.IcelandHorses_EN-GB0471273367_UHD.jpg) 
