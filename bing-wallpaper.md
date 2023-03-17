@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-18 | [Ballyvooney Cove, Copper Coast Geopark, Ireland (© Andrea Pistolesi/Getty Images)](https://global.bing.com/th?id=OHR.BallyvooneyCove_EN-GB5471858217_UHD.jpg) 
+
 2023-03-17 | [Giant panda at Chengdu Panda Base, China (© Jim Zuckerman/Jaynes Gallery/DanitaDelimont)](https://global.bing.com/th?id=OHR.ChengduPanda_EN-GB7439141889_UHD.jpg) 
 
 2023-03-16 | [Agüero, Spain (© Andrea Comi/Getty Images)](https://global.bing.com/th?id=OHR.AgueroSpain_EN-GB7390476214_UHD.jpg) 
