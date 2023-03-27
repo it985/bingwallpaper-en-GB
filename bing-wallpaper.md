@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-27 | [New York City skyline in fog (© Orbon Alija/Getty Images)](https://global.bing.com/th?id=OHR.NYCClouds_EN-GB6377009019_UHD.jpg) 
+
 2023-03-26 | [Wildflowers in Anza-Borrego Desert State Park, California (© Ron and Patty Thomas/Getty Images)](https://global.bing.com/th?id=OHR.WildAnza_EN-GB6484773362_UHD.jpg) 
 
 2023-03-26 | [Cecil Brewer Staircase, the Heal's Building, London, England (© Yiran An/Getty Images)](https://global.bing.com/th?id=OHR.CecilBrewerStaircase_EN-GB6123513321_UHD.jpg) 
