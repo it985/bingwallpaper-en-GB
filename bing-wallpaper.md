@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-01 | [Tower Bridge, London, England (© Pajor Pawel/Shutterstock)](https://global.bing.com/th?id=OHR.TowerBridge_EN-GB5189458174_UHD.jpg) 
+
 2023-03-31 | [Steyr River, Austria (© guenterguni/Getty Images)](https://global.bing.com/th?id=OHR.SteyrRiver_EN-GB6776891369_UHD.jpg) 
 
 2023-03-30 | [Peacock feathers (© Sarayut Thaneerat/Getty Images)](https://global.bing.com/th?id=OHR.PeacockFeathers_EN-GB6671969010_UHD.jpg) 
