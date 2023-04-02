@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-02 | [Bromo Tengger Semeru National Park, East Java, Indonesia (© Bento Fotography/Getty Images)](https://global.bing.com/th?id=OHR.JavaBromo_EN-GB6138929477_UHD.jpg) 
+
 2023-04-01 | [Tower Bridge, London, England (© Pajor Pawel/Shutterstock)](https://global.bing.com/th?id=OHR.TowerBridge_EN-GB5189458174_UHD.jpg) 
 
 2023-03-31 | [Steyr River, Austria (© guenterguni/Getty Images)](https://global.bing.com/th?id=OHR.SteyrRiver_EN-GB6776891369_UHD.jpg) 
