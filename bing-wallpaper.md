@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-03 | [Snowdonia National Park, Gwynedd, Wales, UK (© Sebastian Wasek/Sime/eStock Photo)](https://global.bing.com/th?id=OHR.SnowdoniaNational_EN-GB4311745305_UHD.jpg) 
+
 2023-04-02 | [Bromo Tengger Semeru National Park, East Java, Indonesia (© Bento Fotography/Getty Images)](https://global.bing.com/th?id=OHR.JavaBromo_EN-GB6138929477_UHD.jpg) 
 
 2023-04-01 | [Tower Bridge, London, England (© Pajor Pawel/Shutterstock)](https://global.bing.com/th?id=OHR.TowerBridge_EN-GB5189458174_UHD.jpg) 
