@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-06 | [Moon rising, Tucson, Arizona (© Tim Murphy/Shutterstock)](https://global.bing.com/th?id=OHR.ArizonaPinkMoon_EN-GB5965608318_UHD.jpg) 
+
 2023-04-05 | [Black grouse males in Kuusamo, Finland (© Markus Varesvuo/Minden Pictures)](https://global.bing.com/th?id=OHR.BlackGrouseLekking_EN-GB5920744810_UHD.jpg) 
 
 2023-04-04 | [Roman bridge, Córdoba, Spain (© Jeremy Woodhouse/Getty Images)](https://global.bing.com/th?id=OHR.RomanBridge_EN-GB5878482036_UHD.jpg) 
