@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-07 | [Baby Eurasian beavers, Finland (© Danny Green/Minden Pictures)](https://global.bing.com/th?id=OHR.KitsAspen_EN-GB5526308393_UHD.jpg) 
+
 2023-04-06 | [Moon rising, Tucson, Arizona (© Tim Murphy/Shutterstock)](https://global.bing.com/th?id=OHR.ArizonaPinkMoon_EN-GB5965608318_UHD.jpg) 
 
 2023-04-05 | [Black grouse males in Kuusamo, Finland (© Markus Varesvuo/Minden Pictures)](https://global.bing.com/th?id=OHR.BlackGrouseLekking_EN-GB5920744810_UHD.jpg) 
