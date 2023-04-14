@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-14 | [Mediterranean red sea stars, Mediterranean Sea (© Hans Leijnse/Minden Pictures)](https://global.bing.com/th?id=OHR.RedSeaStars_EN-GB6301012491_UHD.jpg) 
+
 2023-04-13 | [Randox National Festival, Liverpool, England, UK (© Tim Goode - Pool/Getty Images)](https://global.bing.com/th?id=OHR.RandoxGrandNationalFestival_EN-GB6462568975_UHD.jpg) 
 
 2023-04-12 | [Earth seen from the International Space Station (© Tim Peake/ESA/NASA via Getty Images)](https://global.bing.com/th?id=OHR.EuropeFromISS_EN-GB6382250822_UHD.jpg) 
