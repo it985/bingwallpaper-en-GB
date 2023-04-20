@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-20 | [The Giant's Causeway, County Antrim, Northern Ireland (© Dieter Meyrl/Getty Images)](https://global.bing.com/th?id=OHR.NIrelandGiants_EN-GB9278166109_UHD.jpg) 
+
 2023-04-19 | [Taiwan yuhina pair, Alishan National Scenic Area, Taiwan (© Staffan Widstrand/Minden Pictures)](https://global.bing.com/th?id=OHR.TaiwanYuhina_EN-GB3024716986_UHD.jpg) 
 
 2023-04-18 | [Machu Picchu, Peru (© Dora Dalton/Getty Images)](https://global.bing.com/th?id=OHR.MPPUnesco_EN-GB6113286192_UHD.jpg) 
