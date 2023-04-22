@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-22 | [Island fox in Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.EarthDayFox_EN-GB4275362878_UHD.jpg) 
+
 2023-04-21 | [Meldon Hill, Dartmoor National Park, Devon (© AWL Images/DanitaDelimont.com)](https://global.bing.com/th?id=OHR.DartmoorNationalPark_EN-GB4196669556_UHD.jpg) 
 
 2023-04-20 | [The Giant's Causeway, County Antrim, Northern Ireland (© Dieter Meyrl/Getty Images)](https://global.bing.com/th?id=OHR.NIrelandGiants_EN-GB9278166109_UHD.jpg) 
