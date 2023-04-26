@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-26 | [Great horned owl fledglings (© Michael Morse/Getty Images)](https://global.bing.com/th?id=OHR.GHOAudubonDay_EN-GB5353280661_UHD.jpg) 
+
 2023-04-25 | [Adélie penguins in Antarctica (© David Merron Photography/Getty Images)](https://global.bing.com/th?id=OHR.AdelieWPD_EN-GB5235836361_UHD.jpg) 
 
 2023-04-24 | [Bavarian Forest wine cellar, Germany (© Andreas Zerndl/Getty Images)](https://global.bing.com/th?id=OHR.FranconianWineCellar_EN-GB5130126864_UHD.jpg) 
