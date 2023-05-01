@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-01 | [Quebec Bridge across the lower Saint Lawrence River, Canada (© Ronald Santerre/Getty Images)](https://global.bing.com/th?id=OHR.QuebecCityBridge_EN-GB5878837587_UHD.jpg) 
+
 2023-04-30 | [Preservation Hall, New Orleans, Louisiana (© Cosmo Condina North America/Alamy)](https://global.bing.com/th?id=OHR.ExteriorPreservationHall_EN-GB5783524556_UHD.jpg) 
 
 2023-04-29 | [Milky Way over Joshua Tree National Park, California (© Schroptschop/Getty Images)](https://global.bing.com/th?id=OHR.JTNPMilkyWay_EN-GB5660603519_UHD.jpg) 
