@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-07 | [Seal pup, Lundy Island, England (© Henley Spiers/Minden Pictures)](https://global.bing.com/th?id=OHR.SealLaughing_EN-GB5277006835_UHD.jpg) 
+
 2023-05-06 | [Westminster Abbey Church, England, UK (© IR Stone/Shutterstock)](https://global.bing.com/th?id=OHR.CollegiateChurch_EN-GB2302415888_UHD.jpg) 
 
 2023-05-05 | [Church of Nuestra Señora de los Remedios and Popocatépetl, Puebla, Mexico (© Radius Images/Shutterstock)](https://global.bing.com/th?id=OHR.Popocatepetl_EN-GB3272306048_UHD.jpg) 
