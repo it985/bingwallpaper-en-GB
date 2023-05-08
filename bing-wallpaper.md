@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-08 | [Delicate Arch, Arches National Park, Utah (© Mark Brodkin Photography/Getty Images)](https://global.bing.com/th?id=OHR.TheChaps_EN-GB5623728723_UHD.jpg) 
+
 2023-05-07 | [Seal pup, Lundy Island, England (© Henley Spiers/Minden Pictures)](https://global.bing.com/th?id=OHR.SealLaughing_EN-GB5277006835_UHD.jpg) 
 
 2023-05-06 | [Westminster Abbey Church, England, UK (© IR Stone/Shutterstock)](https://global.bing.com/th?id=OHR.CollegiateChurch_EN-GB2302415888_UHD.jpg) 
