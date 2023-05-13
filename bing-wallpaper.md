@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-13 | [Pelicans at Sonny Bono Salton Sea National Wildlife Refuge, California (© David McNew/Getty Images)](https://global.bing.com/th?id=OHR.SonnyBonoPelicans_EN-GB9377908080_UHD.jpg) 
+
 2023-05-12 | [Wild lupine in purple and blue (© silverjohn/Getty Images Plus)](https://global.bing.com/th?id=OHR.WildLupine_EN-GB8885934265_UHD.jpg) 
 
 2023-05-11 | [Henningsvær Stadium, Norway (© Morten Falch Sortland/Getty Images)](https://global.bing.com/th?id=OHR.FootballField_EN-GB7873108108_UHD.jpg) 
