@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-19 | [Sumatran rhinoceros (Dicerorhinus sumatrensis) female eating leaves, Way Kambas National Park, Sumatra, Indonesia (© Cyril Ruoso/Minden Pictures)](https://global.bing.com/th?id=OHR.SumatranRhino_EN-GB6546826418_UHD.jpg) 
+
 2023-05-18 | [Museo Soumaya, Plaza Carso building, Mexico City, Mexico (© Juan Romero/Alamy)](https://global.bing.com/th?id=OHR.MuseoSoumaya_EN-GB1309622714_UHD.jpg) 
 
 2023-05-17 | [Natural Bridges State Beach in Santa Cruz, California (© Jim Patterson/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.CormorantBridge_EN-GB0868004148_UHD.jpg) 
