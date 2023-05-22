@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-22 | [Arenal Volcano seen from Monteverde, Costa Rica (© Kevin Wells/Getty Images)](https://global.bing.com/th?id=OHR.BiodiverseCostaRica_EN-GB7008355136_UHD.jpg) 
+
 2023-05-21 | [River Seine, Paris, France (© StockByM/Getty Images)](https://global.bing.com/th?id=OHR.PontdArcole_EN-GB6835023826_UHD.jpg) 
 
 2023-05-20 | [European honeybees in Sheffield, England (© Deborah Vernon/Alamy)](https://global.bing.com/th?id=OHR.EuropeanHoneybee_EN-GB6665127718_UHD.jpg) 
