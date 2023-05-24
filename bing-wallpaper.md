@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-24 | [The Old Fortress of Corfu, Greece (© Netfalls Remy Musser/Shutterstock)](https://global.bing.com/th?id=OHR.OldFortress_EN-GB7211028147_UHD.jpg) 
+
 2023-05-23 | [Western box turtle (© Tim Fitzharris/Minden Pictures)](https://global.bing.com/th?id=OHR.WesternBoxTurtle_EN-GB7102181609_UHD.jpg) 
 
 2023-05-22 | [Arenal Volcano seen from Monteverde, Costa Rica (© Kevin Wells/Getty Images)](https://global.bing.com/th?id=OHR.BiodiverseCostaRica_EN-GB7008355136_UHD.jpg) 
