@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-30 | [Playa del Amor in the Marietas Islands, off the coast of Puerto Vallarta, Mexico (© ferrantraite/Getty Images)](https://global.bing.com/th?id=OHR.HiddenBeach_EN-GB8069559148_UHD.jpg) 
+
 2023-05-29 | [Art Gallery Hall, Fitzwilliam Museum, UK (© Pompaem Gogh/Shutterstock)](https://global.bing.com/th?id=OHR.FitzwilliamMuseum_EN-GB7777112861_UHD.jpg) 
 
 2023-05-28 | [Tegallalang terrace farms in Ubud, Bali, Indonesia (© Cavan Images/Adobe Stock)](https://global.bing.com/th?id=OHR.TegallalangTerrace_EN-GB7684726638_UHD.jpg) 
