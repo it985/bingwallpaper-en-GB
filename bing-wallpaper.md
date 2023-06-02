@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-02 | [Gemsbok (Oryx gazella) in sand dunes, Namibia (© Sergey Gorshkov/Minden)](https://global.bing.com/th?id=OHR.GemsbokNamibia_EN-GB7458259084_UHD.jpg) 
+
 2023-06-01 | [Aerial image of the Great Barrier Reef, Australia (© AirPano LLC/Amazing Aerial Agency)](https://global.bing.com/th?id=OHR.ReefAwareness_EN-GB8413195988_UHD.jpg) 
 
 2023-05-31 | [Sea otter pup, Prince William Sound, Alaska (© Donald M. Jones/Minden Pictures)](https://global.bing.com/th?id=OHR.WorldOtterDay_EN-GB8244382691_UHD.jpg) 
