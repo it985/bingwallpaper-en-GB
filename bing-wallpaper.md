@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-09 | [Hot air balloons in Cappadocia, Türkiye (© Anton Petrus/Getty Images)](https://global.bing.com/th?id=OHR.BalloonsTurkey_EN-GB0119846047_UHD.jpg) 
+
 2023-06-08 | [Humpback whale (© Philip Thurston/Getty Images)](https://global.bing.com/th?id=OHR.PlayfulHumpback_EN-GB9991991463_UHD.jpg) 
 
 2023-06-07 | [Pueblo Bonito, Chaco Culture National Historical Park, New Mexico (© Ian Shive/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.ChacoCulture_EN-GB9900323304_UHD.jpg) 
