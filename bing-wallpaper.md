@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-15 | [Synchronous fireflies, Great Smoky Mountains National Park, Tennessee (© Floris Van Bruegel/Minden Pictures)](https://global.bing.com/th?id=OHR.SmokyFireflies_EN-GB0756238387_UHD.jpg) 
+
 2023-06-14 | [Brighton Pier at sunset, England, UK (© Peppy Graphics/Shutterstock)](https://global.bing.com/th?id=OHR.BrightonPalacePier_EN-GB0672120721_UHD.jpg) 
 
 2023-06-13 | [Spanish moss trees over a boardwalk in the Okefenokee Swamp, Folkston, Georgia (© Emmer Photo/Alamy)](https://global.bing.com/th?id=OHR.OkefenokeeSwamp_EN-GB0533204328_UHD.jpg) 
