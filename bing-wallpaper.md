@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-27 | [Sedona, Arizona (© Jonathan Ross/Getty Images)](https://global.bing.com/th?id=OHR.SedonaSunset_EN-GB7297274691_UHD.jpg) 
+
 2023-06-26 | [Château de Villandry and its garden, Loire Valley, France (© VLADJ55/Shutterstock)](https://global.bing.com/th?id=OHR.VillandryGarden_EN-GB7083830994_UHD.jpg) 
 
 2023-06-25 | [Al-Khazneh (the Treasury), Petra, Jordan (© WitthayaP/Shutterstock)](https://global.bing.com/th?id=OHR.PetraTreasury_EN-GB6969772830_UHD.jpg) 
