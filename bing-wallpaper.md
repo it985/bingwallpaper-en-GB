@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-30 | [Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska (© Carlos Carreno/Getty Images)](https://global.bing.com/th?id=OHR.ClamBears_EN-GB2655650762_UHD.jpg) 
+
 2023-06-29 | [Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Images)](https://global.bing.com/th?id=OHR.BanyakIslands_EN-GB9801951786_UHD.jpg) 
 
 2023-06-28 | [Procida, Italy (© Sean Pavone/Shutterstock)](https://global.bing.com/th?id=OHR.ProcidaItaly_EN-GB9713968263_UHD.jpg) 
