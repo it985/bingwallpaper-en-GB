@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-03 | [Ground View of Centre Court, Wimbledon Tennis Championships, A.E.L.T.C, London, Britain (© Mark Greenwood/Ips/Shutterstock)](https://global.bing.com/th?id=OHR.Wimbledon_EN-GB2899114060_UHD.jpg) 
+
 2023-07-02 | [Veluwemeer Aqueduct, Netherlands (© Frolova_Elena/Getty Images)](https://global.bing.com/th?id=OHR.HalfwayBoats_EN-GB2866827460_UHD.jpg) 
 
 2023-07-01 | [London Eye illuminated at dawn, England (© Pajor Pawel/Shutterstock)](https://global.bing.com/th?id=OHR.LondonPride_EN-GB2746181543_UHD.jpg) 
