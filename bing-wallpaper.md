@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-11 | [Hong Kong SAR (© leungchopan/Getty Images)](https://global.bing.com/th?id=OHR.WorldPopDay_EN-GB3438147607_UHD.jpg) 
+
 2023-07-10 | [Field of lavender, Somerset, England (© Doug Chinnery/Getty Images)](https://global.bing.com/th?id=OHR.SomersetLavender_EN-GB4406056307_UHD.jpg) 
 
 2023-07-09 | [Moselle River loop near Kröv, Germany (© Jorg Greuel/Getty Images)](https://global.bing.com/th?id=OHR.MoselleRiver_EN-GB3282583215_UHD.jpg) 
