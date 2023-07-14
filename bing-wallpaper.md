@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-14 | [Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images)](https://global.bing.com/th?id=OHR.BlacktipSharks_EN-GB3965002703_UHD.jpg) 
+
 2023-07-13 | [Zhangye Danxia National Geopark, Gansu, China (© TONNAJA/Getty Images)](https://global.bing.com/th?id=OHR.ZhangyeGeopark_EN-GB3558371059_UHD.jpg) 
 
 2023-07-12 | [Sand bar in Nakupenda Beach Nature Reserve, Zanzibar, Tanzania  (© Lubos Paukeje/Alamy)](https://global.bing.com/th?id=OHR.NakupendaBeach_EN-GB3504823444_UHD.jpg) 
