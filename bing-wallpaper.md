@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-15 | [Castelmezzano, Italy (© Rudy Balasko/Shutterstock)](https://global.bing.com/th?id=OHR.CastelmazzanoSunrise_EN-GB5103184672_UHD.jpg) 
+
 2023-07-14 | [Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images)](https://global.bing.com/th?id=OHR.BlacktipSharks_EN-GB3965002703_UHD.jpg) 
 
 2023-07-13 | [Zhangye Danxia National Geopark, Gansu, China (© TONNAJA/Getty Images)](https://global.bing.com/th?id=OHR.ZhangyeGeopark_EN-GB3558371059_UHD.jpg) 
