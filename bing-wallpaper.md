@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-22 | [Hammock camping in a bald cypress tree, Florida (© Mac Stone/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.HammockDay_EN-GB8668654444_UHD.jpg) 
+
 2023-07-21 | [Storseisundet Bridge, Atlantic Ocean Road, Norway (© Morten Falch Sortland/Getty Images)](https://global.bing.com/th?id=OHR.BridgeNorway_EN-GB7894817821_UHD.jpg) 
 
 2023-07-20 | [The moon seen from the Orion spacecraft of NASA's Artemis mission (© NASA)](https://global.bing.com/th?id=OHR.MoonDayArtemis_EN-GB7995664444_UHD.jpg) 
