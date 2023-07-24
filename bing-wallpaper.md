@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-24 | [Zebras in Tarangire National Park, Tanzania (© cinoby/Getty Images)](https://global.bing.com/th?id=OHR.ZebraCousins_EN-GB9257719327_UHD.jpg) 
+
 2023-07-23 | [Edinburgh Tea Estate, Nuwara Eliya, Sri Lanka (© Jeremy Woodhouse/Getty Images)](https://global.bing.com/th?id=OHR.TeaEstate_EN-GB8869612351_UHD.jpg) 
 
 2023-07-22 | [Hammock camping in a bald cypress tree, Florida (© Mac Stone/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.HammockDay_EN-GB8668654444_UHD.jpg) 
