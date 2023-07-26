@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-26 | [London Aquatics Centre at the Queen Elizabeth Olympic Park in Stratford (© Stefano Ravera/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.OlympicPark_EN-GB3430975053_UHD.jpg) 
+
 2023-07-25 | [Laguna de Torrevieja, Alicante, Spain (© Juan Maria Coy Vergara/Getty Images)](https://global.bing.com/th?id=OHR.LasLagunas_EN-GB0705662215_UHD.jpg) 
 
 2023-07-24 | [Zebras in Tarangire National Park, Tanzania (© cinoby/Getty Images)](https://global.bing.com/th?id=OHR.ZebraCousins_EN-GB9257719327_UHD.jpg) 
