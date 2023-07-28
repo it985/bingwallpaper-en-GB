@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-28 | [San Blas Islands, Panama (© bgremler/Shutterstock)](https://global.bing.com/th?id=OHR.SanBlasIslands_EN-GB7336025250_UHD.jpg) 
+
 2023-07-27 | [Arc de Triomphe du Carrousel and Louvre Pyramid, Paris, France (© Jon Hicks/Getty Images)](https://global.bing.com/th?id=OHR.ParisLouvre_EN-GB6867376539_UHD.jpg) 
 
 2023-07-26 | [London Aquatics Centre at the Queen Elizabeth Olympic Park in Stratford (© Stefano Ravera/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.OlympicPark_EN-GB3430975053_UHD.jpg) 
