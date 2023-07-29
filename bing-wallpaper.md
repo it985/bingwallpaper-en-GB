@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-29 | [Bengal tiger, Ranthambore National Park, India (© Andy Rouse/Minden Pictures)](https://global.bing.com/th?id=OHR.TigerIndia_EN-GB6492286404_UHD.jpg) 
+
 2023-07-28 | [San Blas Islands, Panama (© bgremler/Shutterstock)](https://global.bing.com/th?id=OHR.SanBlasIslands_EN-GB7336025250_UHD.jpg) 
 
 2023-07-27 | [Arc de Triomphe du Carrousel and Louvre Pyramid, Paris, France (© Jon Hicks/Getty Images)](https://global.bing.com/th?id=OHR.ParisLouvre_EN-GB6867376539_UHD.jpg) 
