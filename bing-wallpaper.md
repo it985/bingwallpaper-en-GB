@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-01 | [Climber on Denali, Denali National Park, Alaska (© Andrew Peacock/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.DenaliClimber_EN-GB1414013985_UHD.jpg) 
+
 2023-07-31 | [Rock House, Hocking Hills State Park, Ohio (© Kenneth Keifer/Getty Images)](https://global.bing.com/th?id=OHR.RockHouse_EN-GB4353633894_UHD.jpg) 
 
 2023-07-30 | [Farmland in the Palouse, Washington (© EJ-J/Getty Images)](https://global.bing.com/th?id=OHR.PalouseHills_EN-GB6935137102_UHD.jpg) 
