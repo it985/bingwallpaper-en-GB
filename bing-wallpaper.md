@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-03 | [Zelenci Nature Reserve, Slovenia (© Andrey Danilovich/Getty Images)](https://global.bing.com/th?id=OHR.ZelenciSprings_EN-GB9091067954_UHD.jpg) 
+
 2023-08-02 | [Sandstone butte in Capitol Reef National Park, Utah (© Amazing Aerial Premium/Shutterstock)](https://global.bing.com/th?id=OHR.CapitolButte_EN-GB7380981920_UHD.jpg) 
 
 2023-08-01 | [Climber on Denali, Denali National Park, Alaska (© Andrew Peacock/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.DenaliClimber_EN-GB1414013985_UHD.jpg) 
