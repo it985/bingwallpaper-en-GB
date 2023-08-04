@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-04 | [Tintern Abbey, Wales (© matthibcn/Getty Images)](https://global.bing.com/th?id=OHR.GothicRuins_EN-GB8583804853_UHD.jpg) 
+
 2023-08-03 | [Zelenci Nature Reserve, Slovenia (© Andrey Danilovich/Getty Images)](https://global.bing.com/th?id=OHR.ZelenciSprings_EN-GB9091067954_UHD.jpg) 
 
 2023-08-02 | [Sandstone butte in Capitol Reef National Park, Utah (© Amazing Aerial Premium/Shutterstock)](https://global.bing.com/th?id=OHR.CapitolButte_EN-GB7380981920_UHD.jpg) 
