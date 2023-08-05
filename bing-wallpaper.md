@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-05 | [Atlantic puffin, Iceland (© Peter Hering/Minden Pictures)](https://global.bing.com/th?id=OHR.AtlanticPuffin_EN-GB2052526705_UHD.jpg) 
+
 2023-08-04 | [Tintern Abbey, Wales (© matthibcn/Getty Images)](https://global.bing.com/th?id=OHR.GothicRuins_EN-GB8583804853_UHD.jpg) 
 
 2023-08-03 | [Zelenci Nature Reserve, Slovenia (© Andrey Danilovich/Getty Images)](https://global.bing.com/th?id=OHR.ZelenciSprings_EN-GB9091067954_UHD.jpg) 
