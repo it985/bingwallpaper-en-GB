@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-06 | [Kagami-ike (Mirror Pond), Nagano, Japan (© Shoji Fujita/Getty Images)](https://global.bing.com/th?id=OHR.NaganoPond_EN-GB0382059808_UHD.jpg) 
+
 2023-08-05 | [Atlantic puffin, Iceland (© Peter Hering/Minden Pictures)](https://global.bing.com/th?id=OHR.AtlanticPuffin_EN-GB2052526705_UHD.jpg) 
 
 2023-08-04 | [Tintern Abbey, Wales (© matthibcn/Getty Images)](https://global.bing.com/th?id=OHR.GothicRuins_EN-GB8583804853_UHD.jpg) 
