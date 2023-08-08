@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-08 | [View of St Michael's Mount in Cornwall at sunset, Penzance, Cornwall, United Kingdom (© Valerie2000/Shutterstock)](https://global.bing.com/th?id=OHR.MichaelsMountCornwall_EN-GB2571189638_UHD.jpg) 
+
 2023-08-07 | [Bodie Island Lighthouse, Nags Head, North Carolina (© Michael Ver Sprill/Getty Images)](https://global.bing.com/th?id=OHR.BodieNC_EN-GB1725462371_UHD.jpg) 
 
 2023-08-06 | [Kagami-ike (Mirror Pond), Nagano, Japan (© Shoji Fujita/Getty Images)](https://global.bing.com/th?id=OHR.NaganoPond_EN-GB0382059808_UHD.jpg) 
