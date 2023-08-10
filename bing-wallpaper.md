@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-10 | [A lion in Maasai Mara, Kenya (© Scott Davis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.WorldLionDay_EN-GB2950747752_UHD.jpg) 
+
 2023-08-09 | [Indigenous artwork, Ngaruwanajirri Art Centre, Wurrumiyanga, Bathurst Island, Australia (© Robert Wyatt/Alamy)](https://global.bing.com/th?id=OHR.BathurstArt_EN-GB5230437301_UHD.jpg) 
 
 2023-08-08 | [View of St Michael's Mount in Cornwall at sunset, Penzance, Cornwall, United Kingdom (© Valerie2000/Shutterstock)](https://global.bing.com/th?id=OHR.MichaelsMountCornwall_EN-GB2571189638_UHD.jpg) 
