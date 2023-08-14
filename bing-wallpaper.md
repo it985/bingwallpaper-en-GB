@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-14 | [Tiny gecko on leaf (© Darren Greenwood/Alamy)](https://global.bing.com/th?id=OHR.GeckoLeaf_EN-GB5757875928_UHD.jpg) 
+
 2023-08-13 | [Perseid meteor shower, Cottonwood Canyon State Park, Oregon (© Joshua Meador/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.PerseidsOregon_EN-GB5150858972_UHD.jpg) 
 
 2023-08-12 | [Elephant family in Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)](https://global.bing.com/th?id=OHR.ThreeElephants_EN-GB4525682311_UHD.jpg) 
