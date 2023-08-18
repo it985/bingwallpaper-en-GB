@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-18 | ['Avatar Mountains,' Zhangjiajie National Forest Park, China (© Amazing Aerial Premium/Shutterstock)](https://global.bing.com/th?id=OHR.AvatarMountain_EN-GB8866230548_UHD.jpg) 
+
 2023-08-17 | [Highways in Taipei, Taiwan (© Tavarius/Shutterstock)](https://global.bing.com/th?id=OHR.InfinityTaipei_EN-GB3498072213_UHD.jpg) 
 
 2023-08-16 | [Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)](https://global.bing.com/th?id=OHR.KeyWestBridge_EN-GB5461803500_UHD.jpg) 
