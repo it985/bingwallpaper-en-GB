@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-21 | [Cotswolds village of Snowshill, Gloucestershire, England, United Kingdom, Europe (© Gavin Hellier/robertharding/Getty Images)](https://global.bing.com/th?id=OHR.CotswoldEngland_EN-GB8705579866_UHD.jpg) 
+
 2023-08-20 | [Start Point Lighthouse, South Devon, England (© Guy Edwardes/Minden Pictures)](https://global.bing.com/th?id=OHR.StartPointLight_EN-GB8752172309_UHD.jpg) 
 
 2023-08-19 | [Squirrel looking into the lens of a camera (© Alfredo Piedrafita/Getty Images)](https://global.bing.com/th?id=OHR.CameraSquirrel_EN-GB8816985093_UHD.jpg) 
