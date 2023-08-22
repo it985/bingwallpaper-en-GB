@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-22 | [Amphitheatre of El Jem, Tunisia (© Westend61/Getty Images)](https://global.bing.com/th?id=OHR.TunisiaAmphitheatre_EN-GB8662535269_UHD.jpg) 
+
 2023-08-21 | [Cotswolds village of Snowshill, Gloucestershire, England, United Kingdom, Europe (© Gavin Hellier/robertharding/Getty Images)](https://global.bing.com/th?id=OHR.CotswoldEngland_EN-GB8705579866_UHD.jpg) 
 
 2023-08-20 | [Start Point Lighthouse, South Devon, England (© Guy Edwardes/Minden Pictures)](https://global.bing.com/th?id=OHR.StartPointLight_EN-GB8752172309_UHD.jpg) 
