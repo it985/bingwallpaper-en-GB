@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-27 | [Colourful houses in Notting Hill, UK (© Sebastien Mercier/Getty Images)](https://global.bing.com/th?id=OHR.NottingHillCarnivalUK_EN-GB4084408815_UHD.jpg) 
+
 2023-08-26 | [Berlin Cathedral and Museum Island, Berlin, Germany (© Rudy Balasko/Shutterstock)](https://global.bing.com/th?id=OHR.MuseumIsland_EN-GB2659579604_UHD.jpg) 
 
 2023-08-25 | [Lower Yellowstone Falls, Yellowstone National Park, Wyoming (© Tim Fitzharris/Minden Pictures)](https://global.bing.com/th?id=OHR.YellowstoneFalls_EN-GB1775046445_UHD.jpg) 
