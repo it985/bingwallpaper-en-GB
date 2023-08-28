@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-28 | [Fort Lovrijenac, Dubrovnik, Croatia (© Benny Marty/Shutterstock)](https://global.bing.com/th?id=OHR.DubrovnikHarbor_EN-GB2595523896_UHD.jpg) 
+
 2023-08-27 | [Colourful houses in Notting Hill, UK (© Sebastien Mercier/Getty Images)](https://global.bing.com/th?id=OHR.NottingHillCarnivalUK_EN-GB4084408815_UHD.jpg) 
 
 2023-08-26 | [Berlin Cathedral and Museum Island, Berlin, Germany (© Rudy Balasko/Shutterstock)](https://global.bing.com/th?id=OHR.MuseumIsland_EN-GB2659579604_UHD.jpg) 
