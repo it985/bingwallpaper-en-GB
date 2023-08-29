@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-29 | [Jubail Mangrove Park in Abu Dhabi, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)](https://global.bing.com/th?id=OHR.MangrovePark_EN-GB9980790677_UHD.jpg) 
+
 2023-08-28 | [Fort Lovrijenac, Dubrovnik, Croatia (© Benny Marty/Shutterstock)](https://global.bing.com/th?id=OHR.DubrovnikHarbor_EN-GB2595523896_UHD.jpg) 
 
 2023-08-27 | [Colourful houses in Notting Hill, UK (© Sebastien Mercier/Getty Images)](https://global.bing.com/th?id=OHR.NottingHillCarnivalUK_EN-GB4084408815_UHD.jpg) 
