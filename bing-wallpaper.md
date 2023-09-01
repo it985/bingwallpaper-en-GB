@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-01 | [Turkey tail mushroom, Brevard, North Carolina (© Bill Gozansky/Alamy)](https://global.bing.com/th?id=OHR.TurkeyTailMush_EN-GB2359636986_UHD.jpg) 
+
 2023-08-31 | [Saguaro cacti, Ironwood National Monument, Arizona (© Jack Dykinga/Minden Pictures)](https://global.bing.com/th?id=OHR.IronwoodCactus_EN-GB2435607805_UHD.jpg) 
 
 2023-08-30 | [Whale shark, Ningaloo Reef, Western Australia (© Jason Edwards/Getty Images)](https://global.bing.com/th?id=OHR.NingalooShark_EN-GB2488880393_UHD.jpg) 
