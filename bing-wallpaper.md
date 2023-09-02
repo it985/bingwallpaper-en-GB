@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-02 | [Hadrian's Wall, England (© daverhead/Getty Images)](https://global.bing.com/th?id=OHR.HadriansWallUK_EN-GB6069588482_UHD.jpg) 
+
 2023-09-01 | [Turkey tail mushroom, Brevard, North Carolina (© Bill Gozansky/Alamy)](https://global.bing.com/th?id=OHR.TurkeyTailMush_EN-GB2359636986_UHD.jpg) 
 
 2023-08-31 | [Saguaro cacti, Ironwood National Monument, Arizona (© Jack Dykinga/Minden Pictures)](https://global.bing.com/th?id=OHR.IronwoodCactus_EN-GB2435607805_UHD.jpg) 
