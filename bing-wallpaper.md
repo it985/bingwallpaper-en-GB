@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-05 | [Mount Segla, Senja Island, Troms og Finnmark, Norway (© imageBROKER/Moritz Wolf/Getty Images)](https://global.bing.com/th?id=OHR.MountSegla_EN-GB2161222967_UHD.jpg) 
+
 2023-09-04 | [Seongsan Ilchulbong, Jeju Island, South Korea (© Quynh Anh Nguyen/Getty Images)](https://global.bing.com/th?id=OHR.JejuIsland_EN-GB2230052503_UHD.jpg) 
 
 2023-09-03 | [Aerial view of Manhattan, New York City (© Wojtek Zagorski/Getty Images)](https://global.bing.com/th?id=OHR.ManhattanAerial_EN-GB2295175560_UHD.jpg) 
