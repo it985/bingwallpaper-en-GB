@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-09 | [Royal Albert Hall seen from Albert Memorial in Hyde Park, London (© David Bank/Moment/Getty Images)](https://global.bing.com/th?id=OHR.LastNightofProm_EN-GB3177551517_UHD.jpg) 
+
 2023-09-08 | [Georgian housing, The Circus, Bath, Somerset, England (© Gavin Hellier/Getty Images)](https://global.bing.com/th?id=OHR.BathCircus_EN-GB3224549053_UHD.jpg) 
 
 2023-09-07 | [Camels in the desert, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)](https://global.bing.com/th?id=OHR.CamelsAbove_EN-GB1942537770_UHD.jpg) 
