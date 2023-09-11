@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-11 | [Wat Chaiwatthanaram temple, Ayutthaya Historical Park, Thailand (© Weerasak Saeku/Getty Images)](https://global.bing.com/th?id=OHR.AyutthayaTemple_EN-GB3078921949_UHD.jpg) 
+
 2023-09-10 | [Bordeaux, France (© Esperanza33/Getty Images)](https://global.bing.com/th?id=OHR.MarathonMedoc_EN-GB3127993394_UHD.jpg) 
 
 2023-09-09 | [Royal Albert Hall seen from Albert Memorial in Hyde Park, London (© David Bank/Moment/Getty Images)](https://global.bing.com/th?id=OHR.LastNightofProm_EN-GB3177551517_UHD.jpg) 
