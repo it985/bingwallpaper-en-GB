@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-12 | [North Sea at sunset, Norddorf, Amrum Island, Germany (© Frederick Doerschem/Getty Images)](https://global.bing.com/th?id=OHR.NorthSeaStairs_EN-GB1069201289_UHD.jpg) 
+
 2023-09-11 | [Wat Chaiwatthanaram temple, Ayutthaya Historical Park, Thailand (© Weerasak Saeku/Getty Images)](https://global.bing.com/th?id=OHR.AyutthayaTemple_EN-GB3078921949_UHD.jpg) 
 
 2023-09-10 | [Bordeaux, France (© Esperanza33/Getty Images)](https://global.bing.com/th?id=OHR.MarathonMedoc_EN-GB3127993394_UHD.jpg) 
