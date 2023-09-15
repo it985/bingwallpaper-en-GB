@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-15 | [Sunset in Glenariff Forest Park, County Antrim, Ireland (© Peter Zelei/Getty Images)](https://global.bing.com/th?id=OHR.GlenariffForest_EN-GB9562740615_UHD.jpg) 
+
 2023-09-14 | [Przewalski's horses, Hustai National Park, Mongolia (© Ondrej Prosicky/Shutterstock)](https://global.bing.com/th?id=OHR.MongoliaHorses_EN-GB2849288889_UHD.jpg) 
 
 2023-09-13 | [Temples on Hemakuta Hill, Hampi, Karnataka, India (© Images of india/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.HemakutaHill_EN-GB2976067612_UHD.jpg) 
