@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-17 | [Cuban tody, Alejandro de Humboldt National Park, Cuba (© Bruno D'Amicis/Minden Pictures)](https://global.bing.com/th?id=OHR.CubanTody_EN-GB2696201418_UHD.jpg) 
+
 2023-09-16 | [A beer tent at Oktoberfest in Theresienwiese, Munich, Germany (© Peter Kneffel/picture alliance via Getty Images)](https://global.bing.com/th?id=OHR.OktoberfestWorkers_EN-GB2543811228_UHD.jpg) 
 
 2023-09-15 | [Sunset in Glenariff Forest Park, County Antrim, Ireland (© Peter Zelei/Getty Images)](https://global.bing.com/th?id=OHR.GlenariffForest_EN-GB9562740615_UHD.jpg) 
