@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-20 | [Roman-inspired aqueduct, Arkadia Park, Poland (© PATSTOCK/Getty Images)](https://global.bing.com/th?id=OHR.ArkadiaPark_EN-GB2489372021_UHD.jpg) 
+
 2023-09-19 | [Splügen Pass, Graubunden, Switzerland (© Roberto Moiola/Getty Images)](https://global.bing.com/th?id=OHR.SplugenPass_EN-GB9412649229_UHD.jpg) 
 
 2023-09-18 | [Milky Way over Southwest Alentejo and Vicentine Coast Natural Park, Portugal (© Daniel Garrido/Getty Images)](https://global.bing.com/th?id=OHR.MilkyWayPortugal_EN-GB2637293703_UHD.jpg) 
