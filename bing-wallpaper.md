@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-22 | [Castell y Gwynt, Glyder Fach, Snowdonia National Park, North Wales, UK (© Alan Novelli/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.CastellyGwyntUK_EN-GB8170990563_UHD.jpg) 
+
 2023-09-21 | [Inside the Nobel Peace Centre, Oslo, Norway (© Ilyas Ayub/Alamy)](https://global.bing.com/th?id=OHR.NobelNorway_EN-GB0832843869_UHD.jpg) 
 
 2023-09-20 | [Roman-inspired aqueduct, Arkadia Park, Poland (© PATSTOCK/Getty Images)](https://global.bing.com/th?id=OHR.ArkadiaPark_EN-GB2489372021_UHD.jpg) 
