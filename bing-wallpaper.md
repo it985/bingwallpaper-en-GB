@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-24 | [The Fraser River near Mount Robson, British Columbia, Canada (© phototropic/Getty Images)](https://global.bing.com/th?id=OHR.FraserRiverBC_EN-GB9942100747_UHD.jpg) 
+
 2023-09-23 | [Cottonwood trees and red sandstone in Coyote Gulch, Glen Canyon National Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.CottonwoodCanyon_EN-GB8971789490_UHD.jpg) 
 
 2023-09-22 | [Castell y Gwynt, Glyder Fach, Snowdonia National Park, North Wales, UK (© Alan Novelli/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.CastellyGwyntUK_EN-GB8170990563_UHD.jpg) 
