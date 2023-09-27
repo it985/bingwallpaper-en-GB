@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-27 | [The Via Krupp footpath on Capri island, Italy (© Mikolaj Niemczewski/Shutterstock)](https://global.bing.com/th?id=OHR.CapriKrupp_EN-GB1711538979_UHD.jpg) 
+
 2023-09-26 | [Venice Beach Skatepark at sunset, Los Angeles, California (© EXTREME-PHOTOGRAPHER/Getty Images)](https://global.bing.com/th?id=OHR.VeniceSkatePark_EN-GB1268755074_UHD.jpg) 
 
 2023-09-25 | [Sea otter in Bartlett Cove, Glacier Bay National Park and Preserve, Alaska (© Andrew Peacock/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.GlacierBayOtter_EN-GB0453826385_UHD.jpg) 
