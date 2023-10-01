@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-01 | [Lake Bled, Slovenia (© Rasica/Getty Images)](https://global.bing.com/th?id=OHR.LakeBledSunrise_EN-GB9672401018_UHD.jpg) 
+
 2023-09-30 | [Fall colours in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)](https://global.bing.com/th?id=OHR.ShenandoahFoliage_EN-GB8387837899_UHD.jpg) 
 
 2023-09-29 | [Castell Coch, Tongwynlais, Cardiff, Wales, United Kingdom, Europe (© Billy Stock/robertharding/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.CastleCoch_EN-GB9159929259_UHD.jpg) 
