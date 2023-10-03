@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-03 | [Whitehaven Beach, Whitsunday Island, Queensland, Australia (© Coral Brunner/Shutterstock)](https://global.bing.com/th?id=OHR.WhitsundaySwirl_EN-GB4919384667_UHD.jpg) 
+
 2023-10-02 | [Louis Vuitton Foundation in the Bois de Boulogne, Paris, France (© Atlantide Phototravel/Getty Images)](https://global.bing.com/th?id=OHR.VuittonFoundation_EN-GB4679689515_UHD.jpg) 
 
 2023-10-01 | [Lake Bled, Slovenia (© Rasica/Getty Images)](https://global.bing.com/th?id=OHR.LakeBledSunrise_EN-GB9672401018_UHD.jpg) 
