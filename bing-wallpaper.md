@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-07 | [Grizzly bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska, USA (© oksana.perkins/Shutterstock)](https://global.bing.com/th?id=OHR.GrizzlyFalls_EN-GB6799572223_UHD.jpg) 
+
 2023-10-06 | [Taughannock Falls State Park in Trumansburg, New York, USA (© Paul Massie Photography/Getty Images)](https://global.bing.com/th?id=OHR.TaughannockFalls_EN-GB6398059328_UHD.jpg) 
 
 2023-10-05 | [Gentoo penguins, Antarctica (© Art Wolfe/Getty Images)](https://global.bing.com/th?id=OHR.GentooJump_EN-GB5526095211_UHD.jpg) 
