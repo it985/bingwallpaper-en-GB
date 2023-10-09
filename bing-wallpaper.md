@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-09 | [Edinburgh, Scotland (© Andrew Merry/Moment/Getty Images)](https://global.bing.com/th?id=OHR.EdinburghcityscapeUK_EN-GB5285078030_UHD.jpg) 
+
 2023-10-08 | [Veined octopus in a giant clam shell, Sulawesi Sea, Indonesia (© Alex Mustard/Minden Pictures)](https://global.bing.com/th?id=OHR.OctoClam_EN-GB1518782389_UHD.jpg) 
 
 2023-10-07 | [Grizzly bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska, USA (© oksana.perkins/Shutterstock)](https://global.bing.com/th?id=OHR.GrizzlyFalls_EN-GB6799572223_UHD.jpg) 
