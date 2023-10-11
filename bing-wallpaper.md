@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-11 | [The Painted Hills in the John Day Fossil Beds National Monument, Oregon, USA (© Ben Herndon/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.JohnDayFossil_EN-GB2645491253_UHD.jpg) 
+
 2023-10-10 | [Mount Sopris, Colorado, USA (© Jason Hatfield/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.SoprisSunrise_EN-GB2329457022_UHD.jpg) 
 
 2023-10-09 | [Edinburgh, Scotland (© Andrew Merry/Moment/Getty Images)](https://global.bing.com/th?id=OHR.EdinburghcityscapeUK_EN-GB5285078030_UHD.jpg) 
