@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-13 | [Vieste on the Gargano peninsula, Apulia, Italy (© Pilat666/Getty Images)](https://global.bing.com/th?id=OHR.ViesteItaly_EN-GB3219865518_UHD.jpg) 
+
 2023-10-12 | [Old barn and canola field, Palouse region, Idaho, USA (© Terry Eggers/Getty Images)](https://global.bing.com/th?id=OHR.IdahoBarn_EN-GB2947477410_UHD.jpg) 
 
 2023-10-11 | [The Painted Hills in the John Day Fossil Beds National Monument, Oregon, USA (© Ben Herndon/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.JohnDayFossil_EN-GB2645491253_UHD.jpg) 
