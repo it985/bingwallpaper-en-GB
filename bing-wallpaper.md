@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-14 | ['Ring of fire' annular solar eclipse, Doha, Qatar (© Sorin Furcoi/Getty Images)](https://global.bing.com/th?id=OHR.RingEclipse_EN-GB2487189935_UHD.jpg) 
+
 2023-10-13 | [Vieste on the Gargano peninsula, Apulia, Italy (© Pilat666/Getty Images)](https://global.bing.com/th?id=OHR.ViesteItaly_EN-GB3219865518_UHD.jpg) 
 
 2023-10-12 | [Old barn and canola field, Palouse region, Idaho, USA (© Terry Eggers/Getty Images)](https://global.bing.com/th?id=OHR.IdahoBarn_EN-GB2947477410_UHD.jpg) 
