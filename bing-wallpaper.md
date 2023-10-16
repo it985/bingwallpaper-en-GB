@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-16 | [Golden larches and Prusik Peak, Enchantments, Washington, USA (© Jim Patterson/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.GoldenEnchantments_EN-GB4003650281_UHD.jpg) 
+
 2023-10-15 | [European hedgehog sheltering in tree bark, Sussex (© Jules Cox/Minden Pictures)](https://global.bing.com/th?id=OHR.AutumnHedgehog_EN-GB3716298220_UHD.jpg) 
 
 2023-10-14 | ['Ring of fire' annular solar eclipse, Doha, Qatar (© Sorin Furcoi/Getty Images)](https://global.bing.com/th?id=OHR.RingEclipse_EN-GB2487189935_UHD.jpg) 
