@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-19 | [Water lily harvest, Mekong River Delta, Long An, Vietnam (© Khanh Phan/Solent News/Shutterstock)](https://global.bing.com/th?id=OHR.WaterLilyVietnam_EN-GB4801163561_UHD.jpg) 
+
 2023-10-18 | [Canary Wharf underground station, London (© AWL Images/DanitaDelimont.com)](https://global.bing.com/th?id=OHR.CanaryWharfStation_EN-GB4531967765_UHD.jpg) 
 
 2023-10-17 | [Ancient carved texts from Persepolis, Iran (© George Hall/Alamy)](https://global.bing.com/th?id=OHR.SpreadsheetDay_EN-GB0904502702_UHD.jpg) 
