@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-22 | [Red grouse, Ilkley Moor, West Yorkshire, UK (© Rebecca Cole/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.RedGrouseUK_EN-GB4381354892_UHD.jpg) 
+
 2023-10-21 | [Reliefs in the ancient Persian city of Persepolis, Iran (© Ozbalci/Getty Images)](https://global.bing.com/th?id=OHR.PersepolisRelief_EN-GB3727800010_UHD.jpg) 
 
 2023-10-20 | [Pygmy three-toed sloth baby, Isla Escudo de Veraguas, Panama (© Suzi Eszterhas/Minden Pictures)](https://global.bing.com/th?id=OHR.PygmySloth_EN-GB3183827420_UHD.jpg) 
