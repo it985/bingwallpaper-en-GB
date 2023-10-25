@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-25 | [Cottonwood trees in Grand Staircase-Escalante National Monument, Utah, USA (© Jeff Foott/Minden Pictures)](https://global.bing.com/th?id=OHR.GrandStaircase_EN-GB6284084433_UHD.jpg) 
+
 2023-10-24 | [Füzér Castle in the Zemplén Mountains, Hungary (© ZGPhotography/Alamy)](https://global.bing.com/th?id=OHR.FuzerCastle_EN-GB5805534189_UHD.jpg) 
 
 2023-10-23 | [Corn maze in Saylorsburg, Pennsylvania, USA (© Alex Potemkin/Getty Images)](https://global.bing.com/th?id=OHR.PoconosMaze_EN-GB4803656723_UHD.jpg) 
