@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-27 | [Sligachan Old Bridge, Isle of Skye, Scotland (© Aliaume Chapelle/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.OldBridgeSkye_EN-GB7231148688_UHD.jpg) 
+
 2023-10-26 | [Stormont Estate, Northern Ireland (© Brian Lawless/PA Images/Getty Images)](https://global.bing.com/th?id=OHR.AutumnLeavesBelfastUK_EN-GB6693162192_UHD.jpg) 
 
 2023-10-25 | [Cottonwood trees in Grand Staircase-Escalante National Monument, Utah, USA (© Jeff Foott/Minden Pictures)](https://global.bing.com/th?id=OHR.GrandStaircase_EN-GB6284084433_UHD.jpg) 
