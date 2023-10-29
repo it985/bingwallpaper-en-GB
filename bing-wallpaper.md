@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-30 | [Bonaventure Cemetery, Savannah, Georgia, USA (© Kelly vanDellen/Alamy)](https://global.bing.com/th?id=OHR.SavannahSculpture_EN-GB4452502826_UHD.jpg) 
+
 2023-10-28 | [Windmills in Castilla-La Mancha, Spain (© Getty Images)](https://global.bing.com/th?id=OHR.FiveWinds_EN-GB7573327374_UHD.jpg) 
 
 2023-10-27 | [Sligachan Old Bridge, Isle of Skye, Scotland (© Aliaume Chapelle/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.OldBridgeSkye_EN-GB7231148688_UHD.jpg) 
