@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-01 | [Halloween jack-o'-lanterns on a porch (© Bing Image Creator)](https://global.bing.com/th?id=OHR.HalloweenPorchAI_EN-GB0364731391_UHD.jpg) 
+
 2023-10-31 | [Common raven sitting on a branch (© WildMedia/Shutterstock)](https://global.bing.com/th?id=OHR.AutumnRaven_EN-GB8492098807_UHD.jpg) 
 
 2023-10-30 | [Bonaventure Cemetery, Savannah, Georgia, USA (© Kelly vanDellen/Alamy)](https://global.bing.com/th?id=OHR.SavannahSculpture_EN-GB4452502826_UHD.jpg) 
