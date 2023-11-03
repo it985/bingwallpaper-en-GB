@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-04 | [Pacific sea nettles off the coast of Carmel, California, USA (© Jim Patterson/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.SeaNettles_EN-GB7463193359_UHD.jpg) 
+
 2023-11-03 | [Salt flats in Badwater Basin, Death Valley National Park, California, USA (© Jim Patterson/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.DeathValleySalt_EN-GB5385512090_UHD.jpg) 
 
 2023-11-02 | [Haut-Barr Castle, Alsace, France (© Andrea Pistolesi/Getty Images)](https://global.bing.com/th?id=OHR.HautBarr_EN-GB4990917809_UHD.jpg) 
