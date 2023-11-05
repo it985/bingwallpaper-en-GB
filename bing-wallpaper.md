@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-06 | [Firework display at Boughton House, Kettering (© Ben Browning/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.GuyFawkesnightKettering_EN-GB0299191885_UHD.jpg) 
+
 2023-11-05 | [Quartzite formation, Playa del Silencio, Asturias, Spain (© Jean-Philippe Delobelle/Minden Pictures)](https://global.bing.com/th?id=OHR.SilencioSpain_EN-GB8484169314_UHD.jpg) 
 
 2023-11-04 | [Pacific sea nettles off the coast of Carmel, California, USA (© Jim Patterson/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.SeaNettles_EN-GB7463193359_UHD.jpg) 
