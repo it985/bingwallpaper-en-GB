@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-08 | [Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania (© MNStudio/Shutterstock)](https://global.bing.com/th?id=OHR.KirkilaiTower_EN-GB0394335960_UHD.jpg) 
+
 2023-11-07 | [Lake Pehoé, Torres del Paine National Park, Chile (© OST/Getty Images)](https://global.bing.com/th?id=OHR.LagoPehoe_EN-GB9271592844_UHD.jpg) 
 
 2023-11-06 | [Firework display at Boughton House, Kettering (© Ben Browning/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.GuyFawkesnightKettering_EN-GB0299191885_UHD.jpg) 
