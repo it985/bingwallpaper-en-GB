@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-13 | [Lamps on the banks of the Sarayu River on Diwali, Ayodhya, India (© SANJAY KANOJIA/AFP/Getty Images)](https://global.bing.com/th?id=OHR.DiwaliAyodhya_EN-GB6661092478_UHD.jpg) 
+
 2023-11-12 | [Val di Funes, South Tyrol, Italy (© Achim Thomae/Getty Images)](https://global.bing.com/th?id=OHR.ValDiFunes_EN-GB6334905741_UHD.jpg) 
 
 2023-11-11 | [Badlands National Park, South Dakota, USA (© Grant Ordelheide/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.BadlandsSunrise_EN-GB5753703796_UHD.jpg) 
