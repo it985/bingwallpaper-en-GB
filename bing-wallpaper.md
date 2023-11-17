@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-18 | [Meon Hill, Gloucestershire, England (© Stuart Black/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.MeonHillViewUK_EN-GB5301951758_UHD.jpg) 
+
 2023-11-17 | [View over Athens and the Acropolis, Greece (© Mlenny/Getty Images)](https://global.bing.com/th?id=OHR.AthensAcropolis_EN-GB2831546887_UHD.jpg) 
 
 2023-11-16 | [Rapa Valley in Sarek National Park, Sweden (© Hans Strand/Getty Images)](https://global.bing.com/th?id=OHR.SarekSweden_EN-GB7471254512_UHD.jpg) 
