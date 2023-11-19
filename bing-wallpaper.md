@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-20 | [Alam-Pedja Nature Reserve, Estonia (© Sven Zacek/Minden Pictures)](https://global.bing.com/th?id=OHR.FrozenBog_EN-GB6787545750_UHD.jpg) 
+
 2023-11-19 | [Polar bear mother and cubs, Churchill, Manitoba, Canada (© Thorsten Milse/Getty Images)](https://global.bing.com/th?id=OHR.MilsePolarBear_EN-GB6443152470_UHD.jpg) 
 
 2023-11-18 | [Meon Hill, Gloucestershire, England (© Stuart Black/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.MeonHillViewUK_EN-GB5301951758_UHD.jpg) 
