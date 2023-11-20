@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-21 | [Chapman Adventure Playground in the Gathering Place, Tulsa, Oklahoma, USA (© Susan Vineyard/Alamy)](https://global.bing.com/th?id=OHR.ChapmanAdventure_EN-GB7303652402_UHD.jpg) 
+
 2023-11-20 | [Alam-Pedja Nature Reserve, Estonia (© Sven Zacek/Minden Pictures)](https://global.bing.com/th?id=OHR.FrozenBog_EN-GB6787545750_UHD.jpg) 
 
 2023-11-19 | [Polar bear mother and cubs, Churchill, Manitoba, Canada (© Thorsten Milse/Getty Images)](https://global.bing.com/th?id=OHR.MilsePolarBear_EN-GB6443152470_UHD.jpg) 
