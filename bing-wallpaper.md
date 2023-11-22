@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-23 | [Grand Teton National Park, Wyoming, USA (© Westend61/Getty Images)](https://global.bing.com/th?id=OHR.SnakeRiverTeton_EN-GB8620836496_UHD.jpg) 
+
 2023-11-22 | [Grey seal pup on the beach of Norfolk, England (© Vince Burton/Minden Pictures)](https://global.bing.com/th?id=OHR.HelloSeal_EN-GB8313432120_UHD.jpg) 
 
 2023-11-21 | [Chapman Adventure Playground in the Gathering Place, Tulsa, Oklahoma, USA (© Susan Vineyard/Alamy)](https://global.bing.com/th?id=OHR.ChapmanAdventure_EN-GB7303652402_UHD.jpg) 
