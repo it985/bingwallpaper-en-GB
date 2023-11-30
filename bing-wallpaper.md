@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-01 | [Leadenhall Market, London (© Vittorio Caramazza/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.LeadenhallUK_EN-GB3042111411_UHD.jpg) 
+
 2023-11-30 | [Rockefeller Centre Christmas Tree, New York City, USA (© Jonathan Orenstein/Getty Images)](https://global.bing.com/th?id=OHR.TreeLighting_EN-GB2794136797_UHD.jpg) 
 
 2023-11-29 | [Giant land art fresco by artist Saype, Istanbul, Turkey (© Chris McGrath/Getty Images)](https://global.bing.com/th?id=OHR.HumanKindness_EN-GB2526768223_UHD.jpg) 
