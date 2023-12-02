@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-03 | [North Gate of Angkor Thom, Angkor Archaeological Park, Cambodia (© Amazing Travel Lifestyle/Shutterstock)](https://global.bing.com/th?id=OHR.AngkorPark_EN-GB6520244831_UHD.jpg) 
+
 2023-12-02 | [Iceberg, Ross Sea, Antarctica (© Michel Roggo/Minden Pictures)](https://global.bing.com/th?id=OHR.IcebergAntarctica_EN-GB4409581826_UHD.jpg) 
 
 2023-12-01 | [Leadenhall Market, London (© Vittorio Caramazza/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.LeadenhallUK_EN-GB3042111411_UHD.jpg) 
