@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-05 | [A mother cheetah and her cubs in the Masai Mara National Reserve, Kenya (© Scott Davis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.CheetahDay_EN-GB8942362755_UHD.jpg) 
+
 2023-12-04 | [Castleton, Derbyshire, England (© Daveduke/Moment Open/Getty Images)](https://global.bing.com/th?id=OHR.AdventSundayUK_EN-GB6836867238_UHD.jpg) 
 
 2023-12-03 | [North Gate of Angkor Thom, Angkor Archaeological Park, Cambodia (© Amazing Travel Lifestyle/Shutterstock)](https://global.bing.com/th?id=OHR.AngkorPark_EN-GB6520244831_UHD.jpg) 
