@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-06 | [Neuschwanstein and Hohenschwangau Castles, Bavarian Alps, Germany (© Harald Nachtmann/Getty Images)](https://global.bing.com/th?id=OHR.AlpsCastles_EN-GB7463637354_UHD.jpg) 
+
 2023-12-05 | [A mother cheetah and her cubs in the Masai Mara National Reserve, Kenya (© Scott Davis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.CheetahDay_EN-GB8942362755_UHD.jpg) 
 
 2023-12-04 | [Castleton, Derbyshire, England (© Daveduke/Moment Open/Getty Images)](https://global.bing.com/th?id=OHR.AdventSundayUK_EN-GB6836867238_UHD.jpg) 
