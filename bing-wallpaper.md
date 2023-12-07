@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-08 | [Verdon Gorge, Provence-Alpes-Côte d'Azur, France (© Hemis/Alamy)](https://global.bing.com/th?id=OHR.GrandCanyonVerdon_EN-GB3267938575_UHD.jpg) 
+
 2023-12-07 | [The Globe of Science and Innovation building, Meyrin, Switzerland (© Deyan Baric/Alamy)](https://global.bing.com/th?id=OHR.CERNCenter_EN-GB2545686496_UHD.jpg) 
 
 2023-12-06 | [Neuschwanstein and Hohenschwangau Castles, Bavarian Alps, Germany (© Harald Nachtmann/Getty Images)](https://global.bing.com/th?id=OHR.AlpsCastles_EN-GB7463637354_UHD.jpg) 
