@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-11 | [Sand dunes in the Sahara, Algeria (© AWL Images/DanitaDelimont.com)](https://global.bing.com/th?id=OHR.SaharaDunes_EN-GB4602416366_UHD.jpg) 
+
 2023-12-10 | [Sandstone rock formations, Vermilion Cliffs National Monument, Arizona, USA (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://global.bing.com/th?id=OHR.VermilionCliffs_EN-GB4291797221_UHD.jpg) 
 
 2023-12-09 | [La Rocque Harbour, St. Clement, Island of Jersey (© Reinhard Schmid/Huber/eStock Photo)](https://global.bing.com/th?id=OHR.JerseyIsland_EN-GB3607205137_UHD.jpg) 
