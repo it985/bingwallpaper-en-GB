@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-14 | [Svolvaer, Lofoten Islands, Norway (© Roberto Moiola/Sysaworld/Getty Images)](https://global.bing.com/th?id=OHR.LofotenRorbu_EN-GB4727739447_UHD.jpg) 
+
 2023-12-13 | [Reed bunting, Newport Wetlands, Wales (© Chris Howes/Wild Places Photography/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.ReedBuntingWales_EN-GB4401223220_UHD.jpg) 
 
 2023-12-12 | [Winter in Huangshan Mountains, China (© Hung Chung Chih/Shutterstock)](https://global.bing.com/th?id=OHR.MountainDayChina_EN-GB5354424852_UHD.jpg) 
