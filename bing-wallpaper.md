@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-22 | [Ljubljana, Slovenia (© kasto80/Getty images)](https://global.bing.com/th?id=OHR.LjubljanaLights_EN-GB6756234199_UHD.jpg) 
+
 2023-12-21 | [Val Gardena, Dolomites, Italy (© Ingus Kruklitis/Getty Images)](https://global.bing.com/th?id=OHR.ValGardenaItaly_EN-GB6400488712_UHD.jpg) 
 
 2023-12-20 | [Christmas tree in Castle Square, Warsaw, Poland (© Panther Media GmbH/Alamy)](https://global.bing.com/th?id=OHR.WarsawChristmas_EN-GB5947863010_UHD.jpg) 
