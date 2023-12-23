@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-24 | [Chinstrap penguins, South Sandwich Islands, South Atlantic Ocean (© Jan Vermeer/Minden Pictures)](https://global.bing.com/th?id=OHR.FestivusPenguins_EN-GB7349626614_UHD.jpg) 
+
 2023-12-23 | [Castlerigg Stone Circle, Lake District National Park, England (© John Finney Photography/Getty Images)](https://global.bing.com/th?id=OHR.CastleriggStoneCircleUK_EN-GB7075920630_UHD.jpg) 
 
 2023-12-22 | [Ljubljana, Slovenia (© kasto80/Getty images)](https://global.bing.com/th?id=OHR.LjubljanaLights_EN-GB6756234199_UHD.jpg) 
