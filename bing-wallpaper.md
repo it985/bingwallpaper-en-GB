@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-27 | [Princes Street, Edinburgh (© Andrew Merry/Moment/Getty Images)](https://global.bing.com/th?id=OHR.PrincesStreetEdinburgh_EN-GB8368350415_UHD.jpg) 
+
 2023-12-26 | [Caribou running in snow, Alaska, USA (© Michael Quinton/Minden Pictures)](https://global.bing.com/th?id=OHR.CaribouChristmas_EN-GB8094592900_UHD.jpg) 
 
 2023-12-25 | [Town Hall Square, Tartu, Estonia (© Westend61/Getty Images)](https://global.bing.com/th?id=OHR.EstoniaXmasEve_EN-GB7635389506_UHD.jpg) 
