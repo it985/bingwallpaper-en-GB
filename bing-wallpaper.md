@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-31 | [Daiichi Tadami River Bridge, Fukushima, Japan (© DoctorEgg/Getty Images)](https://global.bing.com/th?id=OHR.TadamiWinter_EN-GB2259719616_UHD.jpg) 
+
 2023-12-30 | [Hogmanay firework display, Edinburgh, Scotland (© The Travel Library/Shutterstock)](https://global.bing.com/th?id=OHR.HogmanayFireworksSoctland_EN-GB9543718054_UHD.jpg) 
 
 2023-12-29 | [Humpback whale, Disko Bay, Greenland (© Paul Souders/DanitaDelimont.com)](https://global.bing.com/th?id=OHR.GreenlandHumpback_EN-GB8931241370_UHD.jpg) 
