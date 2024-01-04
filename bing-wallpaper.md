@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-05 | [Golden Gate Bridge, San Francisco, California, USA (© Jim Patterson/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.GoldenGateLight_EN-GB6303595201_UHD.jpg) 
+
 2024-01-04 | [Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images)](https://global.bing.com/th?id=OHR.BodleianCeiling_EN-GB7979385278_UHD.jpg) 
 
 2024-01-03 | [Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.com)](https://global.bing.com/th?id=OHR.BhutanSolstice_EN-GB3360165069_UHD.jpg) 
