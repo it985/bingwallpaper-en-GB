@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-08 | [Great Staple Tor, Dartmoor National Park (© MattStansfield/E+/Getty Images)](https://global.bing.com/th?id=OHR.GreatStapleSnowUK_EN-GB2875416954_UHD.jpg) 
+
 2024-01-07 | [Oud-West neighbourhood, Amsterdam, Netherlands (© George Pachantouris/Getty Images)](https://global.bing.com/th?id=OHR.BlueAmsterdam_EN-GB2503528249_UHD.jpg) 
 
 2024-01-06 | [International Ice and Snow Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images)](https://global.bing.com/th?id=OHR.HarbinFestival_EN-GB9198021502_UHD.jpg) 
