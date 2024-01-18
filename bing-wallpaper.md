@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-19 | [Ashdown Forest Landscape, East Sussex, UK (© Chris Mole/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.WinnieDaySussex_EN-GB2530368112_UHD.jpg) 
+
 2024-01-18 | [Sleeping wolf in Bavarian Forest National Park, Germany (© Raimund Linke/Getty Images)](https://global.bing.com/th?id=OHR.SleepyWolf_EN-GB2239080031_UHD.jpg) 
 
 2024-01-17 | [Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)](https://global.bing.com/th?id=OHR.LakeLouise_EN-GB2053286596_UHD.jpg) 
