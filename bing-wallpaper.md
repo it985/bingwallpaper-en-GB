@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-24 | [Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock)](https://global.bing.com/th?id=OHR.MaldivesAtolls_EN-GB3594196029_UHD.jpg) 
+
 2024-01-23 | [Walton Lighthouse, Santa Cruz, California, USA (© Jeff Lewis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.SantaCruzSunrise_EN-GB0952968899_UHD.jpg) 
 
 2024-01-22 | [Eurasian red squirrel, Netherlands (© Ernst Dirksen/Minden Pictures)](https://global.bing.com/th?id=OHR.SquirrelNetherlands_EN-GB3144776010_UHD.jpg) 
