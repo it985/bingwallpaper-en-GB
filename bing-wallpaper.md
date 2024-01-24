@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-25 | [Diamond Beach, Iceland (© Rachid Dahnoun/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.IcelandBeach_EN-GB3731647332_UHD.jpg) 
+
 2024-01-24 | [Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock)](https://global.bing.com/th?id=OHR.MaldivesAtolls_EN-GB3594196029_UHD.jpg) 
 
 2024-01-23 | [Walton Lighthouse, Santa Cruz, California, USA (© Jeff Lewis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.SantaCruzSunrise_EN-GB0952968899_UHD.jpg) 
