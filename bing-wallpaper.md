@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-02 | [Sassnitz lighthouse, Rügen, Germany (© Christian Back/Huber/eStock Photo)](https://global.bing.com/th?id=OHR.HalbinselJasmund_EN-GB9035766828_UHD.jpg) 
+
 2024-02-01 | [Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](https://global.bing.com/th?id=OHR.ZebraMother_EN-GB8255598898_UHD.jpg) 
 
 2024-01-31 | [Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)](https://global.bing.com/th?id=OHR.AlbaceteSpain_EN-GB4279721479_UHD.jpg) 
