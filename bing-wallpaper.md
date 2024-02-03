@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-04 | [Grand Canal, Venice, Italy (© RudyBalasko/Getty Images)](https://global.bing.com/th?id=OHR.VeniceCarnival_EN-GB9928247347_UHD.jpg) 
+
 2024-02-03 | [Twickenham Stadium, London, England (© David Davies/PA Images/Getty Images)](https://global.bing.com/th?id=OHR.SixNationsStartUK_EN-GB9311975661_UHD.jpg) 
 
 2024-02-02 | [Sassnitz lighthouse, Rügen, Germany (© Christian Back/Huber/eStock Photo)](https://global.bing.com/th?id=OHR.HalbinselJasmund_EN-GB9035766828_UHD.jpg) 
