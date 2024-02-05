@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-06 | [Northern hawk-owl (© Remo Savisaar/Alamy)](https://global.bing.com/th?id=OHR.HawkOwl_EN-GB0033020646_UHD.jpg) 
+
 2024-02-05 | [Devetashka Cave, Devetaki, Bulgaria (© Jasmine_K/Shutterstock)](https://global.bing.com/th?id=OHR.DevetashkaCave_EN-GB0187525185_UHD.jpg) 
 
 2024-02-04 | [Grand Canal, Venice, Italy (© RudyBalasko/Getty Images)](https://global.bing.com/th?id=OHR.VeniceCarnival_EN-GB9928247347_UHD.jpg) 
