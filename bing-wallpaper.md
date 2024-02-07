@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-08 | [St James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)](https://global.bing.com/th?id=OHR.StJamesPool_EN-GB2890656111_UHD.jpg) 
+
 2024-02-07 | [Bonsai Rock, Lake Tahoe, Nevada, USA (© Jim Patterson/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.LakeTahoeRock_EN-GB2276440186_UHD.jpg) 
 
 2024-02-06 | [Northern hawk-owl (© Remo Savisaar/Alamy)](https://global.bing.com/th?id=OHR.HawkOwl_EN-GB0033020646_UHD.jpg) 
