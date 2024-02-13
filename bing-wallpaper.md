@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-14 | [Mardi Gras beads in the Marigny, New Orleans, USA (© Erik Pronske Photography/Getty Images)](https://global.bing.com/th?id=OHR.MarignyBeads_EN-GB6455478514_UHD.jpg) 
+
 2024-02-13 | [Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)](https://global.bing.com/th?id=OHR.GiantTortoise_EN-GB9626304730_UHD.jpg) 
 
 2024-02-12 | [Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)](https://global.bing.com/th?id=OHR.FolegandrosGreece_EN-GB7117617499_UHD.jpg) 
