@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-18 | [Whitby Abbey, North Yorkshire, England (© Kev Hill/Moment/Getty Images)](https://global.bing.com/th?id=OHR.WhitbyAbbeyJorvik_EN-GB4161898215_UHD.jpg) 
+
 2024-02-17 | [Female pyrrhuloxia, Texas, USA (© outtakes/Getty Images)](https://global.bing.com/th?id=OHR.BackyardBird_EN-GB7177541567_UHD.jpg) 
 
 2024-02-16 | [Hippopotamus mother and calf, South Luangwa National Park, Zambia (© Nature Picture Library/Alamy)](https://global.bing.com/th?id=OHR.HippopotamusDay_EN-GB3159174291_UHD.jpg) 
