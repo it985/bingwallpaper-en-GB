@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-19 | [Sperm whale pod surfacing, Dominica (© Franco Banfi/Minden Pictures)](https://global.bing.com/th?id=OHR.DominicaWhales_EN-GB4669286045_UHD.jpg) 
+
 2024-02-18 | [Whitby Abbey, North Yorkshire, England (© Kev Hill/Moment/Getty Images)](https://global.bing.com/th?id=OHR.WhitbyAbbeyJorvik_EN-GB4161898215_UHD.jpg) 
 
 2024-02-17 | [Female pyrrhuloxia, Texas, USA (© outtakes/Getty Images)](https://global.bing.com/th?id=OHR.BackyardBird_EN-GB7177541567_UHD.jpg) 
