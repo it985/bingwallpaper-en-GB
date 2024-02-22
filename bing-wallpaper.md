@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-23 | [Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia (© Prasit photo/Getty Images)](https://global.bing.com/th?id=OHR.BrightonBoxes_EN-GB5915440281_UHD.jpg) 
+
 2024-02-22 | [Firefall at Horsetail Fall, Yosemite National Park, California, USA (© Gregory B Cuvelier/Shutterstock)](https://global.bing.com/th?id=OHR.YosemiteFirefall_EN-GB3012383425_UHD.jpg) 
 
 2024-02-21 | [Kinder Scout, Peak District National Park, England (© john finney photography/Getty Images)](https://global.bing.com/th?id=OHR.PeakDistrictNP_EN-GB0353580996_UHD.jpg) 
