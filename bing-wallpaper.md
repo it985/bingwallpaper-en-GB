@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-26 | [Modica, Sicily, Italy (© Sandro Bisaro/Getty Images)](https://global.bing.com/th?id=OHR.ModicaItaly_EN-GB1957642559_UHD.jpg) 
+
 2024-02-25 | [Almond trees in full bloom, California, USA (© Jeffrey Lewis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.AlmondBloom_EN-GB1597354160_UHD.jpg) 
 
 2024-02-24 | [Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)](https://global.bing.com/th?id=OHR.HaghartsinMonastery_EN-GB1207846096_UHD.jpg) 
