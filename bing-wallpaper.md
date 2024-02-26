@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-27 | [Cowichan Valley, Vancouver Island, British Columbia, Canada (© Kevin Oke/Alamy)](https://global.bing.com/th?id=OHR.MtPrevostDuncan_EN-GB2658572541_UHD.jpg) 
+
 2024-02-26 | [Modica, Sicily, Italy (© Sandro Bisaro/Getty Images)](https://global.bing.com/th?id=OHR.ModicaItaly_EN-GB1957642559_UHD.jpg) 
 
 2024-02-25 | [Almond trees in full bloom, California, USA (© Jeffrey Lewis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.AlmondBloom_EN-GB1597354160_UHD.jpg) 
