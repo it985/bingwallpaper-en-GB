@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-02 | [St Davids Cathedral, Pembrokeshire (© Michael Roberts/Moment/Getty Images)](https://global.bing.com/th?id=OHR.StDavidsPembrokeshire_EN-GB6636392308_UHD.jpg) 
+
 2024-03-01 | [Eurasian red squirrel (© Westend61/Getty Images)](https://global.bing.com/th?id=OHR.LeapingSquirrel_EN-GB4552548404_UHD.jpg) 
 
 2024-02-29 | [Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)](https://global.bing.com/th?id=OHR.BamburghCastleUK_EN-GB3792083746_UHD.jpg) 
