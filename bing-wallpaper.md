@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-05 | [Arenal Volcano seen from Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)](https://global.bing.com/th?id=OHR.ArenalCostaRica_EN-GB7820638738_UHD.jpg) 
+
 2024-03-04 | [Leopard in a tree, Kruger National Park, South Africa (© Tonino De Marco/Minden Pictures)](https://global.bing.com/th?id=OHR.KrugerLeopard_EN-GB7548648267_UHD.jpg) 
 
 2024-03-03 | [Electric guitars and amplifiers (© Third Eye Images/The Image Bank/Getty Images)](https://global.bing.com/th?id=OHR.BritAwardsGuitarsUK_EN-GB7128101081_UHD.jpg) 
