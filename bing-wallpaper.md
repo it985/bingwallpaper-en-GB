@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-07 | [Wahclella Falls in the Columbia River Gorge, Oregon, USA (© Eric Vogt/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.WahclellaFalls_EN-GB8488291917_UHD.jpg) 
+
 2024-03-06 | [Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)](https://global.bing.com/th?id=OHR.BangkokCircle_EN-GB8143129520_UHD.jpg) 
 
 2024-03-05 | [Arenal Volcano seen from Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)](https://global.bing.com/th?id=OHR.ArenalCostaRica_EN-GB7820638738_UHD.jpg) 
