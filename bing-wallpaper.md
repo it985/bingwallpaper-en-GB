@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-17 | [Giant panda eating bamboo, Chengdu, China (© Suzi Eszterhas/Minden Pictures)](https://global.bing.com/th?id=OHR.BambooPanda_EN-GB5869925596_UHD.jpg) 
+
 2024-03-16 | [Anza-Borrego Desert State Park, California, USA (© Stephen Matera/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.AnzaBorregoBloom_EN-GB6213504183_UHD.jpg) 
 
 2024-03-15 | [Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.AyutthayaTree_EN-GB6491490381_UHD.jpg) 
