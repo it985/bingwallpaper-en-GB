@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-25 | [Silvereyes on a cherry blossom branch, South Korea (© TigerSeo/Getty Images)](https://global.bing.com/th?id=OHR.WhiteEyes_EN-GB5831374525_UHD.jpg) 
+
 2024-03-24 | [Large anvil clouds above the Amazon in Brazil (© NASA)](https://global.bing.com/th?id=OHR.AmazonClouds_EN-GB8705485014_UHD.jpg) 
 
 2024-03-23 | [Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)](https://global.bing.com/th?id=OHR.WaikatoWater_EN-GB8519481849_UHD.jpg) 
