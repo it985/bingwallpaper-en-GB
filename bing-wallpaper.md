@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-26 | [Hindu devotees play with colourful powders during Holi, India (© Avishek Das/SOPA Images/LightRocket via Getty Images)](https://global.bing.com/th?id=OHR.ColorfulHoli_EN-GB2645468196_UHD.jpg) 
+
 2024-03-25 | [Silvereyes on a cherry blossom branch, South Korea (© TigerSeo/Getty Images)](https://global.bing.com/th?id=OHR.WhiteEyes_EN-GB5831374525_UHD.jpg) 
 
 2024-03-24 | [Large anvil clouds above the Amazon in Brazil (© NASA)](https://global.bing.com/th?id=OHR.AmazonClouds_EN-GB8705485014_UHD.jpg) 
