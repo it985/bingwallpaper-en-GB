@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-27 | [Seawater cascades over an ancient coral reef, Hang Rai, Vietnam (© Thang Tat Nguyen/Getty Images)](https://global.bing.com/th?id=OHR.HangRaiVietnam_EN-GB3016593740_UHD.jpg) 
+
 2024-03-26 | [Hindu devotees play with colourful powders during Holi, India (© Avishek Das/SOPA Images/LightRocket via Getty Images)](https://global.bing.com/th?id=OHR.ColorfulHoli_EN-GB2645468196_UHD.jpg) 
 
 2024-03-25 | [Silvereyes on a cherry blossom branch, South Korea (© TigerSeo/Getty Images)](https://global.bing.com/th?id=OHR.WhiteEyes_EN-GB5831374525_UHD.jpg) 
