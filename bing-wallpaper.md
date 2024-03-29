@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-30 | [South Stack Lighthouse, Holyhead, Wales (© mariotlr/Getty Images)](https://global.bing.com/th?id=OHR.SouthStackLight_EN-GB4224797900_UHD.jpg) 
+
 2024-03-29 | [Cherry blossoms in Shanghai, China (© Yaorusheng/Getty Images)](https://global.bing.com/th?id=OHR.ShanghaiBlossoms_EN-GB3832708958_UHD.jpg) 
 
 2024-03-28 | [The Teatro Colón in Buenos Aires, Argentina (© Wei Hao Ho/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.TeatroColon_EN-GB2271752304_UHD.jpg) 
