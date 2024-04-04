@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-04 | [Red lechwe herd crossing marshy plain of Okavango Delta, Botswana (© Ibrahim Suha Derbent/Getty Images)](https://global.bing.com/th?id=OHR.AntelopeBotswana_EN-GB5529352670_UHD.jpg) 
+
 2024-04-03 | [Newcastle Upon Tyne, England (© Allan Baxter/The Image Bank/Getty Images)](https://global.bing.com/th?id=OHR.NewcastleUponTyneUK_EN-GB5615473754_UHD.jpg) 
 
 2024-04-02 | [Beech trees and wild anemones, Jutland, Denmark (© Nick Brundle Photography/Getty Images)](https://global.bing.com/th?id=OHR.JutlandSpring_EN-GB1991600575_UHD.jpg) 
