@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-05 | [The Bahamas pictured from the International Space Station (© NASA)](https://global.bing.com/th?id=OHR.BahamasSpace_EN-GB7286483322_UHD.jpg) 
+
 2024-04-04 | [Red lechwe herd crossing marshy plain of Okavango Delta, Botswana (© Ibrahim Suha Derbent/Getty Images)](https://global.bing.com/th?id=OHR.AntelopeBotswana_EN-GB5529352670_UHD.jpg) 
 
 2024-04-03 | [Newcastle Upon Tyne, England (© Allan Baxter/The Image Bank/Getty Images)](https://global.bing.com/th?id=OHR.NewcastleUponTyneUK_EN-GB5615473754_UHD.jpg) 
