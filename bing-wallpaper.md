@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-07 | [North American beaver in a pond near Wonder Lake, Denali National Park, Alaska, USA (© Paul Souders/Getty Images)](https://global.bing.com/th?id=OHR.BeaverDenali_EN-GB1771360512_UHD.jpg) 
+
 2024-04-06 | [Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)](https://global.bing.com/th?id=OHR.JapanHimeji_EN-GB1424616549_UHD.jpg) 
 
 2024-04-05 | [The Bahamas pictured from the International Space Station (© NASA)](https://global.bing.com/th?id=OHR.BahamasSpace_EN-GB7286483322_UHD.jpg) 
