@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-10 | [Apple trees in spring, Germany (© Smileus/Getty Images)](https://global.bing.com/th?id=OHR.SpringApple_EN-GB3722989537_UHD.jpg) 
+
 2024-04-09 | [Tulip fields, Skagit Valley, Washington, USA (© Claudia Cooper/Getty Images)](https://global.bing.com/th?id=OHR.SkagitValleyTulips_EN-GB3144179284_UHD.jpg) 
 
 2024-04-08 | [Llansteffan Castle, Carmarthenshire, Wales (© Roy Shakespeare/Loop Images Ltd/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.LlansteffanCastleWales_EN-GB2601161101_UHD.jpg) 
