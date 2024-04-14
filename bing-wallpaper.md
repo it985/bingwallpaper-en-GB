@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-15 | [The RedBall Project art installation, Centraal Station, Antwerp, Belgium (© Brit Worgan/Getty Images)](https://global.bing.com/th?id=OHR.RedBallBelgium_EN-GB2394850317_UHD.jpg) 
+
 2024-04-13 | [The Grand National at Aintree Racecourse, England (© Tim Goode/Pool/Getty Images)](https://global.bing.com/th?id=OHR.GrandNationalDayUK_EN-GB7349486395_UHD.jpg) 
 
 2024-04-12 | [North Window with Turret Arch in the distance, Arches National Park, Utah, USA (© Anthony Heflin/Shutterstock)](https://global.bing.com/th?id=OHR.SunsetArchesNP_EN-GB5962271625_UHD.jpg) 
