@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-22 | [Green sea turtle, San Diego, California, USA (© Ralph Pace/Minden Pictures)](https://global.bing.com/th?id=OHR.EarthDayTurtle_EN-GB3948660559_UHD.jpg) 
+
 2024-04-21 | [London Marathon in London on April 23, 2017 (© CHRIS J RATCLIFFE/Stringer/AFP/Getty Images)](https://global.bing.com/th?id=OHR.LondonMarathon2017_EN-GB9757388511_UHD.jpg) 
 
 2024-04-20 | [Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming, USA (© XIN WANG/Getty Images)](https://global.bing.com/th?id=OHR.YellowstoneGeyser_EN-GB3387198827_UHD.jpg) 
