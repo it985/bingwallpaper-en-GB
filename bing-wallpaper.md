@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-25 | [Adélie penguins on an iceberg, Antarctica (© Patrick J. Endres/Getty Images)](https://global.bing.com/th?id=OHR.PenguinDirections_EN-GB4668084701_UHD.jpg) 
+
 2024-04-24 | [White trillium blooming in Ontario, Canada (© Jun Zhang/Getty Images)](https://global.bing.com/th?id=OHR.TrilliumOntario_EN-GB4411437530_UHD.jpg) 
 
 2024-04-23 | [Painting titled 'Saint George and the Dragon' by Paolo Uccello (© Photo 12/Universal Images Group via Getty Images)](https://global.bing.com/th?id=OHR.SaintGeorgePaoloUccello_EN-GB4189497272_UHD.jpg) 
