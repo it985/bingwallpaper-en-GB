@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-28 | [El Capitan in Guadalupe Mountains National Park, Texas, USA (© Adam Mowery/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.GuadalupeTexas_EN-GB5407194916_UHD.jpg) 
+
 2024-04-27 | [Leucistic Anna's Hummingbird in the Australia Garden, UCSC Arboretum, Santa Cruz, California, USA (© yhelfman/Getty Images)](https://global.bing.com/th?id=OHR.LeucisticHummingbird_EN-GB5146934481_UHD.jpg) 
 
 2024-04-26 | [Kalaloch Tree, aka the tree of life, Kalaloch Beach, Olympic National Park, Washington, USA (© Abbie Warnock-Matthews/Shutterstock)](https://global.bing.com/th?id=OHR.KalalochTree_EN-GB4909909836_UHD.jpg) 
