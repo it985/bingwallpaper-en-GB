@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-01 | [Hawaiian lei flower garlands (© Jotika Pun/Shutterstock)](https://global.bing.com/th?id=OHR.HawaiianLei_EN-GB6017463804_UHD.jpg) 
+
 2024-04-30 | [Cheetah, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)](https://global.bing.com/th?id=OHR.CheetahRain_EN-GB5857912258_UHD.jpg) 
 
 2024-04-29 | [Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China (© Hongjie Han/Getty Images)](https://global.bing.com/th?id=OHR.TulouFujian_EN-GB5628876331_UHD.jpg) 
