@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-05 | [Colonnade in San Miguel de Allende, Guanajuato, Mexico (© Mint Images/Getty Images)](https://global.bing.com/th?id=OHR.SanMiguelAllende_EN-GB7729877471_UHD.jpg) 
+
 2024-05-04 | [Brighton Palace Pier, Brighton, England (© Michael Jewes/iStock/Getty Images)](https://global.bing.com/th?id=OHR.BrightonPierFestival_EN-GB6742125656_UHD.jpg) 
 
 2024-05-03 | [Brittlebushes blooming in springtime, Sonoran Desert, Arizona, USA (© Charles Harker/Getty Images)](https://global.bing.com/th?id=OHR.SonoranSpring_EN-GB6882953741_UHD.jpg) 
