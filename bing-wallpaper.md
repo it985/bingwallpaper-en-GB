@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-07 | [A duckling swimming in a water meadow, Suffolk, England (© Nick Hurst/Getty Images)](https://global.bing.com/th?id=OHR.LittleDuckling_EN-GB2863897779_UHD.jpg) 
+
 2024-05-06 | [The ruins of an ancient monastery on the island of Skellig Michael, Ireland (© MNStudio/Getty Images)](https://global.bing.com/th?id=OHR.JediMonastery_EN-GB8506812300_UHD.jpg) 
 
 2024-05-05 | [Colonnade in San Miguel de Allende, Guanajuato, Mexico (© Mint Images/Getty Images)](https://global.bing.com/th?id=OHR.SanMiguelAllende_EN-GB7729877471_UHD.jpg) 
