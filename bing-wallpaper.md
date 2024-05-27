@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-27 | [Second-hand books at the Hay Festival, Hay-on-Wye, Wales (© Christopher Furlong/Staff/Getty Images News)](https://global.bing.com/th?id=OHR.HayFestival2024_EN-GB9332975021_UHD.jpg) 
+
 2024-05-26 | [Balsamroot and lupines, Methow Valley, North Cascades, Washington, USA (© Alan Majchrowicz/Getty Images)](https://global.bing.com/th?id=OHR.MethowWildflowers_EN-GB8398636525_UHD.jpg) 
 
 2024-05-25 | [Aït Benhaddou, Morocco (© Grant Faint/Getty Images)](https://global.bing.com/th?id=OHR.MoroccoBenhaddou_EN-GB8113662497_UHD.jpg) 
