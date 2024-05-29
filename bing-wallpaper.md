@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-29 | [Adolescent European otters, Loch Spelve, Isle of Mull, Scotland (© Neil Henderson/Alamy)](https://global.bing.com/th?id=OHR.MullOtter_EN-GB2549170693_UHD.jpg) 
+
 2024-05-28 | [Roussanou Monastery, Meteora, Thessaly, Greece (© Marius Roman/Getty Images)](https://global.bing.com/th?id=OHR.MeteoraMonastery_EN-GB1630086453_UHD.jpg) 
 
 2024-05-27 | [Second-hand books at the Hay Festival, Hay-on-Wye, Wales (© Christopher Furlong/Staff/Getty Images News)](https://global.bing.com/th?id=OHR.HayFestival2024_EN-GB9332975021_UHD.jpg) 
