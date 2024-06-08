@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-08 | [European hare, West Midlands, England (© Jake Stephen/Moment/Getty Images)](https://global.bing.com/th?id=OHR.SummerJuneHare_EN-GB7076303066_UHD.jpg) 
+
 2024-06-07 | [Family of humpback whales, Dutch Harbour, Alaska, USA (© Jude Newkirk/Amazing Aerial Agency)](https://global.bing.com/th?id=OHR.HumpbackFamily_EN-GB1225853084_UHD.jpg) 
 
 2024-06-06 | [Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)](https://global.bing.com/th?id=OHR.LesBravesNormandy_EN-GB6170955707_UHD.jpg) 
