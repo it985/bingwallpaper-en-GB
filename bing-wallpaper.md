@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-10 | [Osaka at night, Japan (© wichianduangsri/Getty Images)](https://global.bing.com/th?id=OHR.OsakaNight_EN-GB7737792955_UHD.jpg) 
+
 2024-06-09 | [Bardenas Reales Biosphere Reserve and Natural Park, Bardenas, Navarra, Spain (© Aliaume Chapelle/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.BardenasBiosphere_EN-GB7353700362_UHD.jpg) 
 
 2024-06-08 | [European hare, West Midlands, England (© Jake Stephen/Moment/Getty Images)](https://global.bing.com/th?id=OHR.SummerJuneHare_EN-GB7076303066_UHD.jpg) 
