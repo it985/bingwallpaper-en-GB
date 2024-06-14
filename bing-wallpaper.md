@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-14 | [Peggy's Cove Lighthouse, Nova Scotia, Canada (© Pugalenthi/Getty Images)](https://global.bing.com/th?id=OHR.PeggysCove_EN-GB2774875684_UHD.jpg) 
+
 2024-06-13 | [Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)](https://global.bing.com/th?id=OHR.RegistanUzbekistan_EN-GB2667913913_UHD.jpg) 
 
 2024-06-12 | [Milky Way over Big Bend National Park, Texas, USA (© wisanuboonrawd/Adobe Stock)](https://global.bing.com/th?id=OHR.BigBendMilkyWay_EN-GB2396509445_UHD.jpg) 
