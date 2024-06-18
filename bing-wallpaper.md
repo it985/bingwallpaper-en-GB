@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-18 | [Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)](https://global.bing.com/th?id=OHR.LupinIceland_EN-GB3513329815_UHD.jpg) 
+
 2024-06-17 | [Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)](https://global.bing.com/th?id=OHR.HummingThistle_EN-GB9410129648_UHD.jpg) 
 
 2024-06-16 | [Red fox father and kit, Washington, USA (© Chase Dekker/Minden Pictures)](https://global.bing.com/th?id=OHR.RedFoxDad_EN-GB2072246945_UHD.jpg) 
