@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-23 | [Aerial view of a roundabout in Dhaka, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)](https://global.bing.com/th?id=OHR.DhakaBangladesh_EN-GB6313540805_UHD.jpg) 
+
 2024-06-22 | [Amazon rainforest, Brazil (© Claus Meyer/plainpicture)](https://global.bing.com/th?id=OHR.BrazilRainforest_EN-GB5655367336_UHD.jpg) 
 
 2024-06-21 | [Reticulated giraffe mother greeting calf, Lewa Wildlife Conservancy, Kenya (© Sean Crane/Minden Pictures)](https://global.bing.com/th?id=OHR.LewaGiraffe_EN-GB5426424156_UHD.jpg) 
