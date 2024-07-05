@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-05 | [Noah Beach in Daintree Rainforest, Queensland, Australia (© bjeayes/Getty Images)](https://global.bing.com/th?id=OHR.NoahBeach_EN-GB6003580040_UHD.jpg) 
+
 2024-07-04 | [Italica, an old Roman city in Santiponce, Sevilla, Andalusia, Spain (© Moses Palermo/Amazing Aerial Agency)](https://global.bing.com/th?id=OHR.ItalicaRuins_EN-GB5712011823_UHD.jpg) 
 
 2024-07-03 | [Meerkat family (© anetapics/Shutterstock)](https://global.bing.com/th?id=OHR.MeerkatManor_EN-GB5476220606_UHD.jpg) 
