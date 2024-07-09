@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-09 | [Talampaya National Park, La Rioja province, Argentina (© Gonzalo Azumendi/Getty Images)](https://global.bing.com/th?id=OHR.TalampayaNP_EN-GB7448714861_UHD.jpg) 
+
 2024-07-08 | [Blueberries growing in the wild (© Baac3nes/Getty Images)](https://global.bing.com/th?id=OHR.NorwayBlueberries_EN-GB7208908364_UHD.jpg) 
 
 2024-07-07 | [Rice terraces of Mù Cang Chải, Yên Bái province, Vietnam (© Kiatanan Sugsompian/Getty Images)](https://global.bing.com/th?id=OHR.YenBaiTerraces_EN-GB7013329996_UHD.jpg) 
