@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-14 | [Burrowing owl chicks near a burrow, Wyoming, USA (© Danita Delimont/Getty Images)](https://global.bing.com/th?id=OHR.OwlSiblings_EN-GB5626247823_UHD.jpg) 
+
 2024-07-13 | [Fairy chimneys and cave dwellings in Cappadocia, Türkiye (© Storm Is Me/Shutterstock)](https://global.bing.com/th?id=OHR.CappadociaRocks_EN-GB3775326662_UHD.jpg) 
 
 2024-07-12 | [Wildflowers in Mount Rainier National Park, Washington, USA (© RomanKhomlyak/Getty Images)](https://global.bing.com/th?id=OHR.RainierWildflowers_EN-GB3567513605_UHD.jpg) 
