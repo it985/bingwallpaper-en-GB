@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-16 | [The neolithic settlement of Skara Brae, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)](https://global.bing.com/th?id=OHR.AncientOrkney_EN-GB6273973665_UHD.jpg) 
+
 2024-07-15 | [Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)](https://global.bing.com/th?id=OHR.TateishiPark_EN-GB5935394849_UHD.jpg) 
 
 2024-07-14 | [Burrowing owl chicks near a burrow, Wyoming, USA (© Danita Delimont/Getty Images)](https://global.bing.com/th?id=OHR.OwlSiblings_EN-GB5626247823_UHD.jpg) 
