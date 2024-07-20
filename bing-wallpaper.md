@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-20 | [The moon (© Victor Blum/Getty Images)](https://global.bing.com/th?id=OHR.MineralMoon_EN-GB7656393830_UHD.jpg) 
+
 2024-07-19 | [A young jaguar on a riverbank, Pantanal, Brazil (© Tambako the Jaguar/Getty Images)](https://global.bing.com/th?id=OHR.YoungJaguar_EN-GB7435202533_UHD.jpg) 
 
 2024-07-18 | [Coral reef in the Indian Ocean, Mayotte, France (© Gabriel Barathieu/Minden Pictures)](https://global.bing.com/th?id=OHR.MayotteCoral_EN-GB7192983287_UHD.jpg) 
