@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-22 | [Buckingham Palace, London (© Zoonar/Andriy Kravchenko/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.BuckinghamOpening2024_EN-GB9070142687_UHD.jpg) 
+
 2024-07-21 | [Wooden fishing boats at Kendwa village, Zanzibar, Tanzania (© Lubos Paukeje/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.ZanzibarBoats_EN-GB8434940826_UHD.jpg) 
 
 2024-07-20 | [The moon (© Victor Blum/Getty Images)](https://global.bing.com/th?id=OHR.MineralMoon_EN-GB7656393830_UHD.jpg) 
