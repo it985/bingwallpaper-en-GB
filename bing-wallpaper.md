@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-23 | [Methoni Castle, Messinia, Greece (© Andrew Mayovskyy/Shutterstock)](https://global.bing.com/th?id=OHR.MethoniCastle_EN-GB9389537440_UHD.jpg) 
+
 2024-07-22 | [Buckingham Palace, London (© Zoonar/Andriy Kravchenko/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.BuckinghamOpening2024_EN-GB9070142687_UHD.jpg) 
 
 2024-07-21 | [Wooden fishing boats at Kendwa village, Zanzibar, Tanzania (© Lubos Paukeje/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.ZanzibarBoats_EN-GB8434940826_UHD.jpg) 
