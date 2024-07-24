@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-24 | [Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Images)](https://global.bing.com/th?id=OHR.SheepCousins_EN-GB9631410299_UHD.jpg) 
+
 2024-07-23 | [Methoni Castle, Messinia, Greece (© Andrew Mayovskyy/Shutterstock)](https://global.bing.com/th?id=OHR.MethoniCastle_EN-GB9389537440_UHD.jpg) 
 
 2024-07-22 | [Buckingham Palace, London (© Zoonar/Andriy Kravchenko/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.BuckinghamOpening2024_EN-GB9070142687_UHD.jpg) 
