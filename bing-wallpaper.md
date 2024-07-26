@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-26 | [Pont Neuf over the Seine, Paris, France (© f11photo/Getty Images)](https://global.bing.com/th?id=OHR.PontNeuf_EN-GB0058066250_UHD.jpg) 
+
 2024-07-25 | [Forest path in Great Smoky Mountains National Park, Tennessee, USA (© putmanphoto/Getty Images)](https://global.bing.com/th?id=OHR.SmokyMountainTrail_EN-GB9959939764_UHD.jpg) 
 
 2024-07-24 | [Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Images)](https://global.bing.com/th?id=OHR.SheepCousins_EN-GB9631410299_UHD.jpg) 
