@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-01 | [Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)](https://global.bing.com/th?id=OHR.KaptaiLake_EN-GB8876933727_UHD.jpg) 
+
 2024-07-31 | [Hoodoos, Sunset Point, Bryce Canyon National Park, Utah, USA (© Tim Fitzharris/Minden Pictures)](https://global.bing.com/th?id=OHR.HoodoosBryce_EN-GB8943105802_UHD.jpg) 
 
 2024-07-30 | [Impala and red-billed oxpecker, South Africa (© Matrishva Vyas/Getty Images)](https://global.bing.com/th?id=OHR.ImpalaOxpecker_EN-GB9009594859_UHD.jpg) 
