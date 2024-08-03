@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-03 | [The Three Natural Bridges, Wulong Karst National Geology Park, China (© Pav-Pro Photography Ltd/Shutterstock)](https://global.bing.com/th?id=OHR.WulongKarst_EN-GB8759537408_UHD.jpg) 
+
 2024-08-02 | [Trunk Bay, Virgin Islands National Park, Saint John, United States Virgin Islands (© cdwheatley/Getty Images)](https://global.bing.com/th?id=OHR.TrunkBay_EN-GB8816603455_UHD.jpg) 
 
 2024-08-01 | [Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)](https://global.bing.com/th?id=OHR.KaptaiLake_EN-GB8876933727_UHD.jpg) 
