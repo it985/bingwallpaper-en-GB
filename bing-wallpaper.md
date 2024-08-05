@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-05 | [Lavender field, Hertfordshire, England (© George W Johnson/Getty Images)](https://global.bing.com/th?id=OHR.HertfordshireLavender_EN-GB8608001356_UHD.jpg) 
+
 2024-08-04 | [San Gimignano, Siena, Tuscany, Italy (© MNStudio/Shutterstock)](https://global.bing.com/th?id=OHR.GimignanoTuscany_EN-GB0016765846_UHD.jpg) 
 
 2024-08-03 | [The Three Natural Bridges, Wulong Karst National Geology Park, China (© Pav-Pro Photography Ltd/Shutterstock)](https://global.bing.com/th?id=OHR.WulongKarst_EN-GB8759537408_UHD.jpg) 
