@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-06 | [Molokini, Maui, Hawaii, USA (© Douglas Peebles/eStock Photo)](https://global.bing.com/th?id=OHR.MolokiniHawaii_EN-GB7304592210_UHD.jpg) 
+
 2024-08-05 | [Lavender field, Hertfordshire, England (© George W Johnson/Getty Images)](https://global.bing.com/th?id=OHR.HertfordshireLavender_EN-GB8608001356_UHD.jpg) 
 
 2024-08-04 | [San Gimignano, Siena, Tuscany, Italy (© MNStudio/Shutterstock)](https://global.bing.com/th?id=OHR.GimignanoTuscany_EN-GB0016765846_UHD.jpg) 
