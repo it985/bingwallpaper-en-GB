@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-08 | [Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)](https://global.bing.com/th?id=OHR.SpottedOwlet_EN-GB7230363465_UHD.jpg) 
+
 2024-08-07 | [Vineyards in the Moselle Valley, Rhineland-Palatinate, Germany (© Jorg Greuel/Getty Images)](https://global.bing.com/th?id=OHR.RhinelandVineyards_EN-GB0382871701_UHD.jpg) 
 
 2024-08-06 | [Molokini, Maui, Hawaii, USA (© Douglas Peebles/eStock Photo)](https://global.bing.com/th?id=OHR.MolokiniHawaii_EN-GB7304592210_UHD.jpg) 
