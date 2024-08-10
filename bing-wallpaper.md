@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-10 | [Joshua Tree National Park, California, USA (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)](https://global.bing.com/th?id=OHR.JoshuaTreeNP_EN-GB1169305265_UHD.jpg) 
+
 2024-08-09 | [Clifton Suspension Bridge during the Bristol Balloon Fiesta, Bristol (© robertharding/Adobe Stock)](https://global.bing.com/th?id=OHR.BristolBalloonFiesta2024_EN-GB5744730173_UHD.jpg) 
 
 2024-08-08 | [Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)](https://global.bing.com/th?id=OHR.SpottedOwlet_EN-GB7230363465_UHD.jpg) 
