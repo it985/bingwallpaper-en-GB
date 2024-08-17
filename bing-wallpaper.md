@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-17 | [Alfanzina lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)](https://global.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-GB7045122942_UHD.jpg) 
+
 2024-08-16 | [Roller coaster in Nagashima Spa Land, Mie prefecture, Japan (© Japanese amateur photographer/Getty Images)](https://global.bing.com/th?id=OHR.JapanRollerCoaster_EN-GB6456877241_UHD.jpg) 
 
 2024-08-15 | [Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images)](https://global.bing.com/th?id=OHR.HangCave_EN-GB5986425507_UHD.jpg) 
