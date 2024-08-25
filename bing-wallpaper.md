@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-25 | [Swiftcurrent Lake, Glacier National Park, Montana, USA (© Jason Savage/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.SwiftcurrentLake_EN-GB9627605146_UHD.jpg) 
+
 2024-08-24 | [Notting Hill Carnival on August 15, 2009, in London, England (© Dan Kitwood/Getty Images)](https://global.bing.com/th?id=OHR.NottingHillCarnival2024_EN-GB9324576606_UHD.jpg) 
 
 2024-08-23 | [Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)](https://global.bing.com/th?id=OHR.PrasatPhanom_EN-GB8973986476_UHD.jpg) 
