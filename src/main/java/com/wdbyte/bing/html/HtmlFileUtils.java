@@ -54,4 +54,27 @@ public class HtmlFileUtils {
         Path path = BING_HTML_ROOT.resolve(month + ".html");
         write(path, html);
     }
+
+
+        /**
+     * 删除指定目录下的所有 HTML 文件
+     * @param directoryPath 需要清理的目录路径
+     * @throws IOException 如果删除过程中发生错误
+     */
+    public static void deleteAllHtmlFiles(Path directoryPath) throws IOException {
+        if (Files.exists(directoryPath)) {
+            try (Stream<Path> paths = Files.walk(directoryPath)) {
+                paths.filter(Files::isRegularFile)
+                     .filter(path -> path.toString().endsWith(".html"))
+                     .forEach(path -> {
+                         try {
+                             Files.delete(path);
+                             LogUtils.log("Deleted file: %s", path.toString());
+                         } catch (IOException e) {
+                             LogUtils.log("Failed to delete file: %s", path.toString());
+                         }
+                     });
+            }
+        }
+    }
 }
