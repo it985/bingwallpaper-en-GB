@@ -9,37 +9,60 @@ on:
     - cron:  '2 16 * * *'
     # 每天UTC时间0点2分
     - cron:  '2 0 * * *'
+    # 每天UTC时间0点
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up JDK 1.8
-      uses: actions/setup-java@v1
-      with:
-        java-version: 1.8
-    - name: current date
-      run: date
-    - name: Build with Maven
-      run: mvn -B package --file pom.xml
-    - name: Run Java Application
-      run: java -jar target/bing-wallpaper-jar-with-dependencies.jar
-    - name: Commit files
-      run: |
-         git config --local user.email "2071916845@qq.com"
-         git config --local user.name "it985"
-         git pull
-         git add README.md
-         git add bing-wallpaper.md
-         git add picture/*
-         git add docs/*
-         git add en-gb/*
-         git commit -m "update readme.md"
-    - name: Push changes
-      uses:  ad-m/github-push-action@master
-      with:
-         bingwallpaper: ${{ secrets.bingwallpaper }}
-         branch: main
+      - uses: actions/checkout@v2
+
+      - name: Set up JDK 1.8
+        uses: actions/setup-java@v1
+        with:
+          java-version: 1.8
+
+      - name: Display Java version
+        run: java -version
+
+      - name: Display Maven version
+        run: mvn -v
+
+      - name: List files in the repository
+        run: |
+          echo "Listing files in the root directory:"
+          ls -la
+          echo "Listing files in the docs directory:"
+          ls -la docs
+          echo "Listing files in the target directory:"
+          ls -la target
+
+      - name: current date
+        run: date
+      - name: Build with Maven
+        run: mvn -B package --file pom.xml
+
+      - name: List files in the target directory after build
+        run: ls -la target
+
+      - name: Run Java Application
+        run: java -jar target/bing-wallpaper-jar-with-dependencies.jar
+
+      - name: Commit files
+        run: |
+          git config --local user.email "2071916845@qq.com"
+          git config --local user.name "it985"
+          git pull
+          git add README.md
+          git add bing-wallpaper.md
+          git add picture/*
+          git add docs/*
+          git add en-gb/*
+          git commit -m "update readme.md" || echo "No changes to commit"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          bingwallpaper: ${{ secrets.bingwallpaper }}
+          branch: main
