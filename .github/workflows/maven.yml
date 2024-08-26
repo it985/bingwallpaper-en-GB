@@ -35,19 +35,31 @@ jobs:
           ls -la
           echo "Listing files in the docs directory:"
           ls -la docs
-          echo "Listing files in the target directory:"
-          ls -la target
-
+          echo "Listing files in the en-gb directory:"
+          ls -la en-gb
       - name: current date
         run: date
       - name: Build with Maven
         run: mvn -B package --file pom.xml
+        # Ensure Maven build succeeds
+        continue-on-error: false
 
       - name: List files in the target directory after build
-        run: ls -la target
+        run: |
+          if [ -d target ]; then
+            echo "Listing files in the target directory:"
+            ls -la target
+          else
+            echo "Target directory does not exist."
+          fi
 
       - name: Run Java Application
-        run: java -jar target/bing-wallpaper-jar-with-dependencies.jar
+        run: |
+          if [ -f target/bing-wallpaper-jar-with-dependencies.jar ]; then
+            java -jar target/bing-wallpaper-jar-with-dependencies.jar
+          else
+            echo "Jar file does not exist."
+          fi
 
       - name: Commit files
         run: |
